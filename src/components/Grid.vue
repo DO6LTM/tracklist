@@ -12,7 +12,7 @@
       </v-col>
     </v-row>
     <v-row v-else>
-      <v-col v-for="card in cards" :key="card.title" cols="12">
+      <v-col v-for="card in cards" :key="card.id" cols="12">
         <CardSmall
           :id="card.id"
           :title="card.title"
