@@ -7,7 +7,26 @@
 
 // Composables
 import { createRouter, createWebHistory } from 'vue-router/auto'
-import { routes } from 'vue-router/auto-routes'
+import index from "@/pages/index.vue";
+
+const routes = [
+  {
+    path: '/',
+    name: 'index',
+    component: index,
+    meta: {
+      title: 'SongStar'
+    }
+  },
+  {
+    path: '/:catchAll(.*)',
+    name: 'catchAll',
+    component: index,
+    meta: {
+      title: 'SongStar'
+    }
+  }
+]
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),
@@ -31,6 +50,10 @@ router.onError((err, to) => {
 
 router.isReady().then(() => {
   localStorage.removeItem('vuetify:dynamic-reload')
+})
+
+router.afterEach((to, from) => {
+  document.title = to.meta.title
 })
 
 export default router
