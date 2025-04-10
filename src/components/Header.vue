@@ -6,7 +6,7 @@
       class="mx-4"
       label="Search"
       v-model="searchValue"
-      @input="onInput"
+      @input="$emit('search', searchValue)"
       prepend-inner-icon="mdi-magnify"
       variant="solo-filled"
       hide-details
@@ -22,11 +22,6 @@
       return {
         searchValue: ''
       };
-    },
-    methods: {
-      onInput() {
-        console.log(this.searchValue);
-      }
     },
   };
 </script>

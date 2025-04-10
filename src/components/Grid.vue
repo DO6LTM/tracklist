@@ -12,7 +12,7 @@
       </v-col>
     </v-row>
     <v-row v-else>
-      <v-col v-for="card in cards" :key="card.id" cols="12">
+      <v-col v-for="card in filteredCards" :key="card.id" cols="12">
         <CardSmall
           :id="card.id"
           :title="card.title"
@@ -39,5 +39,17 @@ export default {
       ],
     };
   },
+  computed: {
+    filteredCards() {
+      return this.cards.filter(card => {
+        return card.title.toLowerCase().includes(this.searchValue.toLowerCase()) ||
+          card.interpret.toLowerCase().includes(this.searchValue.toLowerCase()) ||
+          card.year.toString() === this.searchValue }
+      );
+    },
+  },
+  props: {
+    searchValue: String,
+  }
 };
 </script>
