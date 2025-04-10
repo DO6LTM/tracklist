@@ -11,6 +11,9 @@
   },
   "dependencies": {
     "@mdi/font": "7.4.47",
+    "i18next": "^24.2.3",
+    "i18next-browser-languagedetector": "^8.0.4",
+    "i18next-vue": "^5.2.0",
     "roboto-fontface": "*",
     "vue": "^3.4.31",
     "vuetify": "^3.6.14"

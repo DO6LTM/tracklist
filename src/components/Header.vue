@@ -1,10 +1,10 @@
 <template>
   <v-app-bar :elevation="2" rounded>
-    <v-app-bar-title class="d-none d-sm-flex">Database for SingStar</v-app-bar-title>
+    <v-app-bar-title class="d-none d-sm-flex">{{ $t('title') }}</v-app-bar-title>
     <v-spacer class="d-none d-sm-flex"/>
     <v-text-field
       class="mx-4"
-      label="Search"
+      :label="$t('search')"
       v-model="searchValue"
       @input="$emit('search', searchValue)"
       prepend-inner-icon="mdi-magnify"

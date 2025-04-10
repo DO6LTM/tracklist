@@ -15,19 +15,19 @@
       <v-card-text>
         <v-row>
           <v-col cols="6">
-            <span class="font-weight-bold">Released:</span> {{ year }}
+            <span class="font-weight-bold">{{ $t('released') }}:</span> {{ year }}
             <v-spacer />
-            <span class="font-weight-bold">Length:</span> {{ length }}
+            <span class="font-weight-bold">{{ $t('length') }}:</span> {{ length }}
           </v-col>
           <v-col cols="6">
-            <span class="font-weight-bold">Genres:</span> {{ genres.join(', ')}}
+            <span class="font-weight-bold">{{ $t('genre') }}:</span> {{ genres.join(', ')}}
           </v-col>
         </v-row>
       </v-card-text>
     </v-card-text>
     <v-dialog v-model="showDialog" width="500">
       <v-card>
-        <v-card-title>Games</v-card-title>
+        <v-card-title>{{ $t('games') }}</v-card-title>
         <v-card-text>
           <v-list>
             <v-list-item v-for="(item, index) in games" :key="index">
@@ -40,7 +40,7 @@
         </v-card-text>
         <v-card-actions>
           <v-spacer />
-          <v-btn @click="showDialog = false">Close</v-btn>
+          <v-btn @click="showDialog = false">{{ $t('close') }}</v-btn>
         </v-card-actions>
       </v-card>
     </v-dialog>
