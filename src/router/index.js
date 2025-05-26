@@ -15,7 +15,7 @@ const routes = [
     name: 'index',
     component: index,
     meta: {
-      title: 'SongStar'
+      title: 'Tracklist'
     }
   },
   {
@@ -23,7 +23,7 @@ const routes = [
     name: 'catchAll',
     component: index,
     meta: {
-      title: 'SongStar'
+      title: 'Tracklist'
     }
   }
 ]
