@@ -18,7 +18,6 @@
           :title="card.title"
           :interpret="card.interpret"
           :year="card.year"
-          :length="card.length"
           :genres="card.genres"
           :games="card.games"
         />
@@ -35,7 +34,7 @@ export default {
   data() {
     return {
       cards: [
-        { id: 1, title: 'Titel', interpret: 'Interpret', year: 2000, length: '4:00', genres: [1, 2, 3], games: [1, 2, 3] },
+        { id: 1, title: 'Titel', interpret: 'Interpret', year: 2000, genres: [1, 2, 3], games: [1, 2, 3] },
       ],
     };
   },

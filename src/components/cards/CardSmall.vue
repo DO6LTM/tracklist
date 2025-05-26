@@ -17,9 +17,6 @@
           <v-col cols="6">
             <span class="font-weight-bold">{{ $t('released') }}:</span> {{ year }}
             <v-spacer />
-            <span class="font-weight-bold">{{ $t('length') }}:</span> {{ length }}
-          </v-col>
-          <v-col cols="6">
             <span class="font-weight-bold">{{ $t('genre') }}:</span> {{ genres.join(', ')}}
           </v-col>
         </v-row>
@@ -54,7 +51,6 @@ export default {
     title: String,
     interpret: String,
     year: Number,
-    length: String,
     genres: Array,
     games: Array,
   },

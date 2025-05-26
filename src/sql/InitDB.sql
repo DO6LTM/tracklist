@@ -25,7 +25,6 @@ CREATE TABLE track (
     title TEXT NOT NULL,
     interpret TEXT NOT NULL,
     year INTEGER,
-    length TEXT,
     url TEXT
 );
 
