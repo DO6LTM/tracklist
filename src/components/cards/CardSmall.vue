@@ -26,14 +26,7 @@
       <v-card>
         <v-card-title>{{ $t('games') }}</v-card-title>
         <v-card-text>
-          <v-list>
-            <v-list-item v-for="(item, index) in games" :key="index">
-              <template v-slot:prepend>
-                 <v-icon style="font-size: 10px;">mdi-circle</v-icon>
-              </template>
-              <v-list-item-title>{{ item }}</v-list-item-title>
-            </v-list-item>
-          </v-list>
+          {{ games }}
         </v-card-text>
         <v-card-actions>
           <v-spacer />
@@ -52,7 +45,7 @@ export default {
     interpret: String,
     year: Number,
     genres: Array,
-    games: Array,
+    games: String,
   },
   data() {
     return {

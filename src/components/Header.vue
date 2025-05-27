@@ -11,6 +11,7 @@
       variant="solo-filled"
       hide-details
       clearable
+      @click:clear="$emit('search', '')"
     />
     <v-spacer class="d-none d-sm-flex" />
   </v-app-bar>

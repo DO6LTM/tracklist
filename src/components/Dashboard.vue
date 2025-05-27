@@ -1,11 +1,7 @@
 <template>
   <v-container class="fill-height">
-    <v-responsive
-      class="align-centerfill-height mx-auto"
-    >
-      <Header @search="this.updateSearch" />
-      <Grid :searchValue="searchValue"/>
-    </v-responsive>
+    <Header @search="this.updateSearch" />
+    <Grid :searchValue="searchValue"/>
   </v-container>
 </template>
 
