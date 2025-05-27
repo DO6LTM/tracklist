@@ -7,6 +7,7 @@
 // Plugins
 import { registerPlugins } from '@/plugins'
 import i18n from '@/plugins/i18n'
+import { getDatabase } from '@/plugins/database'
 
 // Components
 import App from './App.vue'
