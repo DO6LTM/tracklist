@@ -1,27 +1,10 @@
 <template>
-  <v-card @click="showDialog = true">
-    <v-card-title>
-      <v-row>
-        <v-col cols="10">
-          {{ title }}
-        </v-col>
-        <v-col cols="2" class="text-end">
-          <v-icon color="grey lighten-1">mdi-information-outline</v-icon>
-        </v-col>
-      </v-row>
-    </v-card-title>
-    <v-card-subtitle>{{ interpret }}</v-card-subtitle>
-    <v-card-text>
-      <v-card-text>
-        <v-row>
-          <v-col cols="6">
-            <span class="font-weight-bold">{{ $t('released') }}:</span> {{ year }}
-            <!--v-spacer />
-            <span class="font-weight-bold">{{ $t('genre') }}:</span> {{ genres.join(', ')}} -->
-          </v-col>
-        </v-row>
-      </v-card-text>
-    </v-card-text>
+  <v-card>
+    <v-card-title>{{ title }} - <v-label color="grey lighten-1" class="text-subtitle-1" style="display: inline">{{ interpret }}</v-label></v-card-title>
+    <v-card-text>{{ year }}</v-card-text>
+    <v-card-actions>
+      <v-btn @click="showDialog = true">{{ $t('more') }}</v-btn>
+    </v-card-actions>
     <v-dialog v-model="showDialog" width="500">
       <v-card>
         <v-card-title>

@@ -1,14 +1,15 @@
 <template>
   <v-container class="fill-height">
     <v-row v-if="$vuetify.display.smAndUp">
-      <v-col v-for="card in cards" :key="card.title" cols="4">
-        <v-card>
-          <v-card-title>{{ card.title }}</v-card-title>
-          <v-card-text>{{ card.year }}</v-card-text>
-          <v-card-actions>
-            <v-btn>More</v-btn>
-          </v-card-actions>
-        </v-card>
+      <v-col v-for="card in cards" :key="card.id" cols="4">
+        <CardLarge
+          :id="card.id"
+          :title="card.title"
+          :interpret="card.interpret"
+          :year="card.year"
+          :genres="card.genres"
+          :games="card.games"
+        />
       </v-col>
     </v-row>
     <v-row style="align-self: start;" v-else>
@@ -28,10 +29,11 @@
 
 <script>
 import CardSmall from "@/components/cards/CardSmall.vue";
+import CardLarge from "@/components/cards/CardLarge.vue";
 import { getDatabase } from "@/plugins/database.js";
 
 export default {
-  components: {CardSmall},
+  components: {CardLarge, CardSmall},
   data() {
     return {
       cards: [],
