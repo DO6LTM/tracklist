@@ -20,7 +20,7 @@ PS2_EXCEPTIONS = {
     },
     "Singstar Pop": {
         "UK": "Singstar Popworld",
-        "DE": "The Dome",
+        "DE": "Singstar The Dome",
         "SE": "Singstar Svenska Hits",
         "NO": "Singstar Norske Hits"
     },
