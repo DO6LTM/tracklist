@@ -12,16 +12,20 @@
         />
       </v-col>
     </v-row>
-    <v-row style="align-self: start;" v-else>
-      <v-col v-for="card in cards" :key="card.id" cols="12">
-        <CardSmall
-          :id="card.id"
-          :title="card.title"
-          :interpret="card.interpret"
-          :year="card.year"
-          :genres="card.genres"
-          :games="card.games"
-        />
+    <v-row style="align-self: start; display: flex; flex-direction: column; align-items: flex-start; max-width: 90%" v-else>
+      <v-col v-for="card in cards" :key="card.id" cols="1" style="padding: 0;">
+        <v-lazy :min-height="200" :options="{'threshold':0.5}" transition="fade-transition">
+          <CardSmall
+            :id="card.id"
+            :title="card.title"
+            :artist="card.artist"
+            :album="card.album"
+            :released="card.released"
+            :duration="card.duration"
+            :image_url="card.image_url"
+            :url="card.url"
+          />
+        </v-lazy>
       </v-col>
     </v-row>
   </v-container>
@@ -60,23 +64,23 @@ export default {
       search = search.trim();
       const wildcardSearch = "%" + search + "%";
 
-      const query = "SELECT DISTINCT t.id, t.title, t.interpret, t.year, c.name as console, g.name as game, GROUP_CONCAT(r.name) AS regions " +
+      const query = "SELECT DISTINCT t.id, t.title, t.artist, t.album, t.released, t.duration, t.image_url, t.url " +
         "FROM track t " +
-        "INNER JOIN track_game tg ON t.id = tg.track_id " +
+        "INNER JOIN track_game tg ON tg.track_id = t.id " +
         "INNER JOIN game g ON g.id = tg.game_id " +
-        "INNER JOIN region r ON r.id = tg.region_id " +
-        "INNER JOIN console c ON c.id = g.console_id " +
-        "WHERE t.title LIKE ? or t.interpret LIKE ? or CAST(t.year as TEXT) = ? or g.name LIKE ? " +
-        "GROUP BY t.id " +
-        "ORDER BY t.interpret, t.title";
+        "INNER JOIN game_region gr ON gr.game_id = g.id " +
+        "INNER JOIN game_title gt ON gt.id = gr.game_title_id " +
+        "WHERE t.title LIKE ? or t.artist LIKE ? or t.album LIKE ? or CAST(t.released as TEXT) = ? or gt.title LIKE ? " +
+        "GROUP BY t.artist, t.title " +
+        "ORDER BY t.artist, t.title";
 
       const stmt = getDatabase().prepare(query);
-      stmt.bind([wildcardSearch, wildcardSearch, search, wildcardSearch]);
+      stmt.bind([wildcardSearch, wildcardSearch, wildcardSearch, search, wildcardSearch]);
       while(stmt.step()) {
         const json = stmt.getAsObject();
 
-        let card = {
-          id: json.id, title: json.title, interpret: json.interpret, year: json.year, games: `${json.game} (${json.console}; ${json.regions})`, genres: []
+        const card = {
+          id: json.id, title: json.title, artist: json.artist, album: json.album, released: json.released, duration: json.duration, image_url: json.image_url, url: json.url
         };
 
         this.cards.push(card);

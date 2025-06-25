@@ -5,5 +5,7 @@
   "genre": "Genre",
   "games": "Games",
   "close": "Close",
-  "more": "More"
+  "more": "More",
+  "duration":  "Duration",
+  "album": "Album"
 }
