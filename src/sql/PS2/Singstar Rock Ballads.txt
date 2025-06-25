@@ -1,0 +1,31 @@
+Artist	Song Title	UK	NL
+Air Supply	"All Out Of Love"	Yes	Yes
+Alannah Myles	"Black Velvet"	Yes	Yes
+Anastacia	"Left Outside Alone"	Yes	Yes
+Avril Lavigne	"I'm With You"	Yes	Yes
+Boston	"More Than A Feeling"	Yes	Yes
+Boy Meets Girl	"Waiting For A Star To Fall"	Yes	Yes
+The Calling	"Wherever You Will Go"	Yes	Yes
+Cutting Crew	"(I Just) Died In Your Arms"	Yes	Yes
+Cyndi Lauper	"Time After Time"	Yes	Yes
+Duran Duran	"Ordinary World"	Yes	Yes
+Europe	"Carrie"	Yes	Yes
+Heart	"Alone"	Yes	Yes
+Jon Secada	"Just Another Day (Without You)"	Yes	Yes
+Lone Star	"Amazed"	Yes	Yes
+Marc Cohn	"Walking In Memphis"	Yes	Yes
+Meat Loaf	"I'd Do Anything For Love (But I Won't Do That)"	Yes	Yes
+Mr Big	"To Be With You"	Yes	Yes
+Mr Mister	"Broken Wings"	Yes	Yes
+Mr Mister	"Kyrie"	Yes	Yes
+Nickelback	"How You Remind Me"	Yes	Yes
+Nilsson	"Without You"	Yes	Yes
+Poison	"Every Rose Has Its Thorn"	Yes	Yes
+Queen	"The Show Must Go On"	Yes	Yes
+Roxette	"It Must Have Been Love"	Yes	Yes
+Roxette	"Listen To Your Heart"	Yes	Yes
+Starship	"Nothing's Gonna Stop Us Now"	Yes	Yes
+Sugababes	"Too Lost In You"	Yes	Yes
+Tina Arena	"Chains"	Yes	Yes
+Toto	"Africa"	Yes	Yes
+T'Pau	"China In Your Hand"	Yes	Yes

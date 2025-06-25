@@ -1,0 +1,26 @@
+Artist	Song Title	UK
+Take That	"Babe"	Yes
+Take That	"Back For Good"	Yes
+Take That	"Beautiful World"	Yes
+Take That	"Could It Be Magic"	Yes
+Take That	"Do What U Like"	Yes
+Take That	"Everything Changes"	Yes
+Take That	"Greatest Day"	Yes
+Take That	"Hold Up A Light"	Yes
+Take That	"I'd Wait For Life"	Yes
+Take That	"It Only Takes A Minute"	Yes
+Take That	"Love Ain't Here Anymore"	Yes
+Take That	"A Million Love Songs"	Yes
+Take That	"Never Forget"	Yes
+Take That	"Once You've Tasted Love"	Yes
+Take That	"Patience"	Yes
+Take That	"Pray"	Yes
+Take That	"Promises"	Yes
+Take That	"Reach Out"	Yes
+Take That	"Rule The World"	Yes
+Take That	"Said It All"	Yes
+Take That	"Shine"	Yes
+Take That	"Sure"	Yes
+Take That	"Up All Night"	Yes
+Take That	"Why Can't I Wake Up With You"	Yes
+Take That feat. Lulu	"Relight My Fire"	Yes

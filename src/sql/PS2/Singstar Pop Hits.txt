@@ -1,0 +1,146 @@
+Artist	Song Title	UK	AU	DE	DK	ES	FR	IT	PL	PT
+4 Taste	"Sempre Que Te Vejo"	No	No	No	No	No	No	No	No	Yes
+Ace of Base	"Life Is A Flower"	No	No	No	Yes	No	No	No	No	No
+Adriana Partimpim	"Fico Assim Sem Você"	No	No	No	No	No	No	No	No	Yes
+Akon	"Lonely"	Yes	Yes	No	No	No	Yes	Yes	Yes	No
+Alejandro Sanz	"A La Primera Persona"	No	No	No	No	Yes	No	No	No	No
+All Saints	"Black Coffee"	Yes	Yes	Yes	Yes	No	No	Yes	No	No
+Amarguinhas	"Just Girls"	No	No	No	No	No	No	No	No	Yes
+Ana Torroja	"Los Amantes"	No	No	No	No	Yes	No	No	No	No
+Anaïs	"Mon Cœur Mon Amour"	No	No	No	No	No	Yes	No	No	No
+André Sardet	"Foi Feitiço"	No	No	No	No	No	No	No	No	Yes
+Andreas Johnson	"Glorious"	No	No	No	Yes	No	No	No	No	No
+Ania	"Trudno Mi Się Przyznać"	No	No	No	No	No	No	No	Yes	No
+Antonio Orozco	"Devuélveme La Vida"	No	No	No	No	Yes	No	No	No	No
+Aqua	"Cartoon Heroes"	No	No	No	Yes	No	No	No	No	No
+El Arrebato	"Duele"	No	No	No	No	Yes	No	No	No	No
+Ashlee Simpson	"Boyfriend"	Yes	Yes	No	No	No	No	Yes	No	Yes
+Avril Lavigne	"My Happy Ending"	Yes	Yes	Yes	No	No	No	Yes	No	Yes
+Basshunter	"Boten Anna"	No	No	No	Yes	No	No	No	No	No
+Boss AC	"Hip Hop (Sou Eu e És Tu)"	No	No	No	No	No	No	No	No	Yes
+Bratisla Boys	"Stach Stach"	No	No	No	No	No	Yes	No	No	No
+Britney Spears	"...Baby One More Time"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Bustamante	"Devuélveme La Vida"	No	No	No	No	Yes	No	No	No	No
+La Caja de Pandora	"Acuérdate Bien De Mi Cara"	No	No	No	No	Yes	No	No	No	No
+El Canto del Loco	"Volverá"	No	No	No	No	Yes	No	No	No	No
+Cardigans	"Erase & Rewind"	No	No	No	Yes	No	No	No	No	No
+Carlos Baute	"Te Regalo"	No	No	No	No	Yes	No	No	No	No
+Cascada	"Everytime We Touch"	Yes	Yes	Yes	No	No	No	Yes	Yes	No
+Chenoa	"Rutinas"	No	No	No	No	Yes	No	No	No	No
+Christian Walz	"Wonderchild"	No	No	No	Yes	No	No	No	No	No
+Clã	"Dançar na Corda Bamba"	No	No	No	No	No	No	No	No	Yes
+Corneille	"Les marchands de rêves"	No	No	No	No	No	Yes	No	No	No
+Corrine Bailey Rae	"Put Your Records On"	Yes	Yes	Yes	No	No	No	Yes	Yes	Yes
+Coti	"Antes Que Ver El Sol"	No	No	No	No	Yes	No	No	No	No
+Daniel Powter	"Bad Day"	Yes	Yes	Yes	Yes	No	No	Yes	No	Yes
+Dannii Minogue	"I Begin To Wonder"	Yes	Yes	No	No	No	No	Yes	No	No
+David Bisbal	"Quién Me Iba A Decir?"	No	No	No	No	Yes	No	No	No	No
+David de María	"Despertaré Cuando Te Vayas"	No	No	No	No	Yes	No	No	No	No
+David Fonseca	"The 80’s"	No	No	No	No	No	No	No	No	Yes
+Diam's	"DJ"	No	No	No	No	No	Yes	No	No	No
+Diam's	"Jeune demoiselle"	No	No	No	No	No	Yes	No	No	No
+Diego Martín & Raquel del Rosario	"Déjame Verte"	No	No	No	No	Yes	No	No	No	No
+Dover	"Let Me Out"	No	No	No	No	Yes	No	No	No	No
+Drömhus	"Vill ha dej"	No	No	No	Yes	No	No	No	No	No
+D'ZRT	"Para Mim Tanto Faz"	No	No	No	No	No	No	No	No	Yes
+Eagle-Eye Cherry	"Save Tonight"	No	No	No	Yes	No	No	No	No	No
+Edurne	"Amores Dormidos"	No	No	No	No	Yes	No	No	No	No
+Effecto Mariposa & Javier Ojeda	"No Me Crees"	No	No	No	No	Yes	No	No	No	No
+Evanescence	"Bring Me To Life"	Yes	Yes	Yes	No	No	No	Yes	Yes	Yes
+Ewa Sonnet	"I RNB"	No	No	No	No	No	No	No	Yes	No
+Fall Out Boy	"Dance, Dance"	Yes	Yes	No	No	No	No	Yes	No	No
+Fangoria	"Criticar Por Criticar"	No	No	No	No	Yes	No	No	No	No
+Fatal Bazooka	"Fous ta cagoule"	No	No	No	No	No	Yes	No	No	No
+Fito y Fitipaldis	"Por La Boca Vive El Pez"	No	No	No	No	Yes	No	No	No	No
+The Gift	"Fácil de Entender"	No	No	No	No	No	No	No	No	Yes
+Girls Aloud	"No Good Advice"	Yes	Yes	Yes	No	No	No	Yes	No	No
+Goldfrapp	"Ooh La La"	Yes	Yes	Yes	Yes	No	No	Yes	No	Yes
+Gosia Andrzejewicz	"Pozwól Żyć"	No	No	No	No	No	No	No	Yes	No
+Goya	"Smak Słów"	No	No	No	No	No	No	No	Yes	No
+Hey	"A Ty?"	No	No	No	No	No	No	No	Yes	No
+Hey	"Mimo Wszystko"	No	No	No	No	No	No	No	Yes	No
+Infernal	"I Won't Be Crying"	No	No	No	Yes	No	No	No	No	No
+Jamelia	"Beware Of The Dog"	Yes	Yes	No	Yes	No	No	Yes	No	No
+James Morrison	"You Give Me Something"	Yes	Yes	Yes	No	No	No	Yes	No	No
+Jan Delay	"Für Immer Und Dich"	No	No	Yes	No	No	No	No	No	No
+Jane Fostin & Medhy Custos	"Pas de glace"	No	No	No	No	No	Yes	No	No	No
+Jeden Osiem L	"Jak Zapomnieć"	No	No	No	No	No	No	No	Yes	No
+Jennifer Lopez	"Jenny From The Block"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+João Pedro Pais	"Louco Por Ti"	No	No	No	No	No	No	No	No	Yes
+Johnny Deluxe	"Drenge Som Mig"	No	No	No	Yes	No	No	No	No	No
+JoJo	"Leave (Get Out)"	Yes	Yes	No	No	No	No	Yes	No	Yes
+Junior Senior	"Take My Time"	No	No	No	Yes	No	No	No	No	No
+Kaolin	"Partons Vite"	No	No	No	No	No	Yes	No	No	No
+Kasia Cerekwicka	"Na Kolana"	No	No	No	No	No	No	No	Yes	No
+Kasia Cerekwicka	"Potrafię Kochać"	No	No	No	No	No	No	No	Yes	No
+Kasia Klich	"Toksyczna Miłość"	No	No	No	No	No	No	No	Yes	No
+Katerine	"Louxor J'Adore"	No	No	No	No	No	Yes	No	No	No
+Kayah	"Testosteron"	No	No	No	No	No	No	No	Yes	No
+Keane	"Crystal Ball"	No	Yes	No	No	No	No	No	No	No
+K'Maro	"Histoires de luv"	No	No	No	No	No	Yes	No	No	No
+Krzysztof Kiljański feat. Kayah	"Prócz Ciebie Nic"	No	No	No	No	No	No	No	Yes	No
+Lââm	"Petite sœur"	No	No	No	No	No	Yes	No	No	No
+Lemar	"It's Not That Easy"	Yes	No	Yes	No	No	No	Yes	No	No
+Lerek feat. Nowator	"Moja Panienka"	No	No	No	No	No	No	No	Yes	No
+Leslie	"Et j'attends"	No	No	No	No	No	Yes	No	No	No
+Lily Allen	"Littlest Things"	Yes	Yes	No	Yes	No	No	Yes	No	No
+Lynnsha feat. D. Dy	"Hommes...femmes"	No	No	No	No	No	Yes	No	No	No
+Łzy	"Oczy Szeroko Zamknięte"	No	No	No	No	No	No	No	Yes	No
+M. Pokora	"De retour"	No	No	No	No	No	Yes	No	No	No
+Malú	"Toda"	No	No	No	No	Yes	No	No	No	No
+Maria Mena	"You're the Only One"	No	No	No	Yes	No	No	No	No	No
+Medhy Custos	"Elles demandent"	No	No	No	No	No	Yes	No	No	No
+Melendi	"Quisiera Yo Saber"	No	No	No	No	Yes	No	No	No	No
+Merche	"Bombón"	No	No	No	No	Yes	No	No	No	No
+Mesa & Rui Reininho	"Luz Vaga"	No	No	No	No	No	No	No	No	Yes
+Mezo / Tabb / Kasia Wilk	"Sacrum"	No	No	No	No	No	No	No	Yes	No
+MIA.	"Tanz Der Moleküle"	No	No	Yes	No	No	No	No	No	No
+Monika Brodka	"Znam Cię Na pamięć"	No	No	No	No	No	No	No	Yes	No
+My Chemical Romance	"Helena"	Yes	Yes	No	No	No	No	Yes	No	No
+Nâdiya	"Amies ennemies"	No	No	No	No	No	Yes	No	No	No
+Nâdiya	"Roc"	No	No	No	No	No	Yes	No	No	No
+Najoua Belyzel	"Gabriel"	No	No	No	No	No	Yes	No	No	No
+Nelly Furtado feat. Timbaland	"Promiscuous"	Yes	Yes	Yes	Yes	No	No	Yes	Yes	Yes
+Nena Daconte	"En Qué Estrella Estará?"	No	No	No	No	Yes	No	No	No	No
+Ne-Yo	"Sexy Love"	No	Yes	No	No	No	No	No	No	No
+Norah Jones	"Don't Know Why"	Yes	Yes	Yes	No	No	No	Yes	Yes	Yes
+Olivia Ruiz	"La Femme Chocolat"	No	No	No	No	No	Yes	No	No	No
+Olivia Ruiz	"J'traîne des pieds"	No	No	No	No	No	Yes	No	No	No
+La Oreja de Van Gogh	"Dulce Locura"	No	No	No	No	Yes	No	No	No	No
+Orson	"Bright Idea"	Yes	No	Yes	Yes	No	No	Yes	No	No
+Paulo Gonzo & Olavo Bilac	"Jardins Proibidos"	No	No	No	No	No	No	No	No	Yes
+Pereza	"Como Lo Tienes Tú"	No	No	No	No	Yes	No	No	No	No
+Perle Lama	"Emmène-moi avec toi"	No	No	No	No	No	Yes	No	No	No
+Pignoise	"Te Entiendo"	No	No	No	No	Yes	No	No	No	No
+Pussycat Dolls	"Beep"	No	Yes	No	No	No	No	No	No	No
+Razorlight	"Golden Touch"	Yes	No	No	Yes	No	No	Yes	No	No
+Revolverheld	"Mit Dir Chill'n"	No	No	Yes	No	No	No	No	No	No
+Rihanna	"SOS"	Yes	Yes	Yes	Yes	No	No	Yes	Yes	Yes
+Rosenstolz	"Ich Geh In Flammen Auf"	No	No	Yes	No	No	No	No	No	No
+Roxette	"I Wish I Could Fly"	No	No	No	Yes	No	No	No	No	No
+Safri Duo	"Sweet Freedom"	No	No	No	Yes	No	No	No	No	No
+Sanne Salomonsen	"You've Never Been Loved Before"	No	No	No	Yes	No	No	No	No	No
+Scissor Sisters	"I Don't Feel Like Dancin'"	Yes	Yes	Yes	Yes	No	No	Yes	Yes	Yes
+Sebastian Hämer	"Sommer Unseres Lebens"	No	No	Yes	No	No	No	No	No	No
+Señor Trepador	"La Noche Me Resbala"	No	No	No	No	Yes	No	No	No	No
+Shy'm	"Femme de couleur"	No	No	No	No	No	Yes	No	No	No
+Shy'm	"Victoire"	No	No	No	No	No	Yes	No	No	No
+Sinclair	"A Chaque Seconde"	No	No	No	No	No	Yes	No	No	No
+Sinik feat. Vitaa	"Ne dis jamais"	No	No	No	No	No	Yes	No	No	No
+Sistars	"Na Dwa"	No	No	No	No	No	No	No	Yes	No
+El Sueño de Morfeo	"Nunca Volverá"	No	No	No	No	Yes	No	No	No	No
+Sugababes	"Push The Button"	Yes	Yes	Yes	Yes	No	No	Yes	Yes	Yes
+Sunrise Avenue	"Fairytale Gone Bad"	No	No	Yes	No	No	No	No	No	No
+Superbus	"Butterfly"	No	No	No	No	No	Yes	No	No	No
+Sylwia Wiśniewska	"12 Łez"	No	No	No	No	No	No	No	Yes	No
+Titiyo	"Come Along"	No	No	No	Yes	No	No	No	No	No
+Tobias Regner	"I Still Burn"	No	No	Yes	No	No	No	No	No	No
+Toranja	"Carta"	No	No	No	No	No	No	No	No	Yes
+Travis	"Sing"	Yes	Yes	Yes	No	No	No	Yes	No	Yes
+U2	"Beautiful Day"	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes
+US5	"Mama"	No	No	Yes	No	No	No	No	No	No
+Vitaa	"A fleur de toi"	No	No	No	No	No	Yes	No	No	No
+Will Young	"Switch It On"	Yes	Yes	No	No	No	No	Yes	No	No
+Wir sind Helden	"Aurélie"	No	No	Yes	No	No	No	No	No	No
+Xavier Naidoo	"Zeilen Aus Gold"	No	No	Yes	No	No	No	No	No	No
+Xutos & Pontapés	"Ai Se Ele Cai"	No	No	No	No	No	No	No	No	Yes

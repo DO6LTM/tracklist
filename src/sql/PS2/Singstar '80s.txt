@@ -1,0 +1,128 @@
+Artist	Song Title	UK	NA	DE	FR	IT	NL	PL	SE
+Alice Cooper	"Poison"	Yes	No	No	No	No	Yes	No	Yes
+Belinda Carlisle	"Heaven Is a Place on Earth"	Yes	No	No	No	Yes	No	Yes	No
+Benny Neyman	"Vrijgezel"	No	No	No	No	No	Yes	No	No
+Billy Joel	"Uptown Girl"	Yes	Yes	Yes	Yes	No	No	No	Yes
+Billy Ocean	"Caribbean Queen"	No	Yes	No	No	No	No	No	No
+Blondie	"Atomic"	Yes	No	Yes	Yes	Yes	Yes	Yes	Yes
+Blondie	"Heart of Glass"	No	Yes	No	No	No	No	No	No
+Budka Suflera	"Za Ostatni Grosz"	No	No	No	No	No	No	Yes	No
+Caroline Loeb	"C'est La Ouate"	No	No	No	Yes	No	No	No	No
+Chattanooga	"Hallå hela pressen"	No	No	No	No	No	No	No	Yes
+Christer Sandelin	"Det Hon Vill Ha"	No	No	No	No	No	No	No	Yes
+Circus Custers	"Verliefd"	No	No	No	No	No	Yes	No	No
+Clouseau	"Anne"	No	No	No	No	No	Yes	No	No
+Clouseau	"Daar Gaat Ze"	No	No	No	No	No	Yes	No	No
+Corynne Charby	"Boule de flipper"	No	No	No	Yes	No	No	No	No
+The Creeps	"Ooh I Like It!"	No	No	No	No	No	No	No	Yes
+Culture Club	"Do You Really Want to Hurt Me?"	No	Yes	No	No	No	No	No	No
+Culture Club	"Karma Chameleon"	Yes	No	Yes	No	Yes	Yes	Yes	Yes
+The Cure	"Just Like Heaven"	Yes	No	No	No	No	No	Yes	No
+Cyndi Lauper	"Time After Time"	No	Yes	No	No	No	No	No	No
+Cyndi Lauper	"She Bop"	No	No	Yes	No	No	No	No	No
+David et Jonathan	"Est-Ce Que Tu Viens Pour Les Vacances"	No	No	No	Yes	No	No	No	No
+De Kast	"Morgen Wordt Het Beter"	No	No	No	No	No	Yes	No	No
+Dead or Alive	"You Spin Me Round (Like a Record)"	No	Yes	No	No	No	No	No	No
+Dexys Midnight Runners	"Come On Eileen"	Yes	Yes	Yes	No	No	No	No	Yes
+Di Leva	"Vem Skall Jag Tro På!"	No	No	No	No	No	No	No	Yes
+Dolly Dots	"Do Wah Diddy Diddy"	No	No	No	No	No	Yes	No	No
+Dolly Parton	"9 to 5"	Yes	No	No	No	No	Yes	No	Yes
+Donatella Rettore	"Kobra"	No	No	No	No	Yes	No	No	No
+Drukwerk	"Carolien"	No	No	No	No	No	Yes	No	No
+Duran Duran	"Rio"	Yes	Yes	No	No	Yes	No	Yes	Yes
+Elsa	"T'en va pas"	No	No	No	Yes	No	No	No	No
+Erasure	"A Little Respect"	Yes	Yes	No	No	No	No	Yes	Yes
+Erik Mesie	"Zonder Jou"	No	No	No	No	No	Yes	No	No
+Europe	"The Final Countdown"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+F. R. David	"Words"	No	No	No	Yes	No	No	No	No
+Factory	"Efter plugget"	No	No	No	No	No	No	No	Yes
+Fairground Attraction	"Perfect"	Yes	No	No	No	No	Yes	No	Yes
+Fausto Leali & Anna Oxa	"Ti lascerò"	No	No	No	No	Yes	No	No	No
+A Flock of Seagulls	"I Ran (So Far Away)"	No	Yes	No	No	No	No	No	No
+Foreigner	"I Want to Know What Love Is"	Yes	Yes	Yes	No	No	No	Yes	Yes
+Frank Boeijen	"Kronenburg Park"	No	No	No	No	No	Yes	No	No
+Frankie Goes to Hollywood	"The Power of Love"	Yes	No	Yes	No	Yes	No	Yes	Yes
+Freestyle	"Fantasi"	No	No	No	No	No	No	No	Yes
+Geier Sturzflug	"Bruttosozialprodukt"	No	No	Yes	No	No	No	No	No
+Gianni Morandi, Enrico Ruggeri & Umberto Tozzi	"Si Può Dare Di Più"	No	No	No	No	Yes	No	No	No
+Giuni Russo	"Un'Estate Al Mare"	No	No	No	No	Yes	No	No	No
+Gold	"Plus Près Des étoiles"	No	No	No	Yes	No	No	No	No
+Grazia Di Michele	"Le Ragazze Di Gauguin"	No	No	No	No	Yes	No	No	No
+Gruppo Italiano	"Tropicana"	No	No	No	No	Yes	No	No	No
+iHans de Booy	"Alle Vrouwen"	No	No	No	No	No	Yes	No	No
+Het Goede Doel	"Belgie"	No	No	No	No	No	Yes	No	No
+Hubert Kah	"Sternenhimmel"	No	No	Yes	No	No	No	No	No
+Imagination	"Just an Illusion"	No	No	No	Yes	No	No	No	No
+INXS	"Need You Tonight"	No	No	No	Yes	No	No	No	No
+IXI	"Der Knutschfleck"	No	No	Yes	No	No	No	No	No
+Janne Lucas	"Växeln hallå"	No	No	No	No	No	No	No	Yes
+Joachim Witt	"Goldener Reiter"	No	No	Yes	No	No	No	No	No
+Johan Verminnen	"Mooie Dagen"	No	No	No	No	No	Yes	No	No
+Julie Pietri	"Ève lève-toi"	No	No	No	Yes	No	No	No	No
+Kadanz	"Intimiteit"	No	No	No	No	No	Yes	No	No
+Kapitan Nemo	"Twoja Lorelei"	No	No	No	No	No	No	Yes	No
+Kate Bush	"Running Up That Hill"	Yes	No	No	Yes	Yes	No	No	No
+Katrina and the Waves	"Walking on Sunshine"	Yes	No	Yes	Yes	Yes	Yes	Yes	Yes
+Kim Wilde	"Kids in America"	No	Yes	No	No	No	No	No	No
+Klaus Mitffoch	"Jezu, Jak Się Cieszę"	No	No	No	No	No	No	Yes	No
+Kobranocka	"Kocham Cię Jak Irlandię"	No	No	No	No	No	No	Yes	No
+Koos Alberts	"Zijn Het Je Ogen"	No	No	No	No	No	Yes	No	No
+La Compagnie Créole	"Le Bal Masqué"	No	No	No	Yes	No	No	No	No
+Lady Pank	"Kryzysowa Narzeczona"	No	No	No	No	No	No	Yes	No
+Laroche Valmont	"T'as Le Look Coco"	No	No	No	Yes	No	No	No	No
+Limahl	"Neverending Story"	No	No	Yes	No	No	No	No	No
+Lio	"Les Brunes"	No	No	No	Yes	No	No	No	No
+Litfiba	"El Diablo"	No	No	No	No	Yes	No	No	No
+Loredana Bertè	"Non sono una signora"	No	No	No	No	Yes	No	No	No
+Maanam	"Kocham Cię, Kochanie Moje"	No	No	No	No	No	No	Yes	No
+Madness	"Our House"	Yes	Yes	No	Yes	No	No	No	No
+Madonna	"Material Girl"	Yes	Yes	No	Yes	Yes	Yes	Yes	Yes
+Majka Jeżowska	"A Ja Wolę Moją Mamę"	No	No	No	No	No	No	Yes	No
+Małgorzata Ostrowska	"Szklana Pogoda"	No	No	No	No	No	No	Yes	No
+Marcella Bella	"Nell'aria"	No	No	No	No	Yes	No	No	No
+Marietta	"Fire & Ice"	No	No	Yes	No	No	No	No	No
+Marillion	"Kayleigh"	Yes	No	Yes	No	No	No	No	No
+Men at Work	"Who Can It Be Now?"	No	Yes	No	No	No	No	No	No
+Meneer Kaktus	"Meneer Kaktus Lied"	No	No	No	No	No	Yes	No	No
+Modern Talking	"Cheri Cheri Lady"	No	No	Yes	No	No	No	No	No
+Münchener Freiheit	"Ohne Dich (Schlaf’ Ich Heut’ Nacht Nicht Ein)"	No	No	Yes	No	No	No	No	No
+Nena	"99 Red Balloons"	Yes	Yes	No	Yes	No	No	No	No
+Nena	"99 Luftballons"	No	No	Yes	No	No	No	No	No
+Nino de Angelo	"Jenseits Von Eden"	No	No	Yes	No	No	No	No	No
+Opus	"Live Is Life"	No	No	Yes	Yes	No	No	No	No
+Ottawan	"T'es OK"	No	No	No	Yes	No	No	No	No
+Papa Dance	"Nasz Disneyland"	No	No	No	No	No	No	Yes	No
+Philippe Lavil	"Il Tape Sur Des Bambous"	No	No	No	Yes	No	No	No	No
+The Pretenders	"Brass in Pocket"	Yes	Yes	No	No	No	No	No	Yes
+Pupo	"Su Di Noi"	No	No	No	No	Yes	No	No	No
+R.E.M.	"Stand"	No	Yes	No	No	No	No	No	No
+Raf	"Cosa Resterà Degli Anni '80"	No	No	No	No	Yes	No	No	No
+Ratata & Frida	"Så länge vi har varann"	No	No	No	No	No	No	No	Yes
+Ricchi e Poveri	"Sarà perché ti amo"	No	No	No	Yes	No	No	No	No
+Rob De Nijs	"Zondag"	No	No	No	No	No	Yes	No	No
+Rudi Schuberth	"Córka Rybaka"	No	No	No	No	No	No	Yes	No
+Run–D.M.C.	"It's Tricky"	Yes	Yes	No	No	No	No	Yes	No
+Sabine Paturel	"Les Bêtises"	No	No	No	Yes	No	No	No	No
+Seweryn Krajewski	"Baw Mnie"	No	No	No	No	No	No	Yes	No
+Simple Minds	"Don't You (Forget About Me)"	Yes	Yes	Yes	Yes	Yes	Yes	No	Yes
+Soft Cell	"Tainted Love"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Squeeze	"Tempted"	No	Yes	No	No	No	No	No	No
+Stadio	"Chiedi Chi Erano I Beatles"	No	No	No	No	Yes	No	No	No
+Starship	"We Built This City"	Yes	Yes	Yes	No	No	No	No	Yes
+Stéphanie	"Ouragan"	No	No	No	Yes	No	No	No	No
+Survivor	"Eye of the Tiger"	Yes	Yes	Yes	No	No	Yes	No	Yes
+Tears for Fears	"Everybody Wants to Rule the World"	Yes	Yes	Yes	Yes	Yes	No	No	Yes
+Thompson Twins	"Hold Me Now"	No	Yes	No	No	No	No	No	No
+Tilt	"Runął Już Ostatni Mur"	No	No	No	No	No	No	Yes	No
+Tina Turner	"The Best"	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes
+Trio Rio	"New York, Rio, Tokyo"	No	No	Yes	No	No	No	No	No
+Twisted Sister	"We're Not Gonna Take It"	No	Yes	No	No	No	No	No	No
+Umberto Balsamo	"Balla"	No	No	No	No	Yes	No	No	No
+Umberto Tozzi	"Gloria"	No	No	No	No	Yes	No	No	No
+Vanilla Ice	"Ice Ice Baby"	Yes	No	No	No	No	Yes	Yes	No
+Vasco Rossi	"Vita spericolata"	No	No	No	No	Yes	No	No	No
+Vox	"Bananowy Song"	No	No	No	No	No	No	Yes	No
+Westernhagen	"Sexy"	No	No	Yes	No	No	No	No	No
+Wham!	"Wake Me Up Before You Go-Go"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Zbigniew Wodecki	"Chałupy Welcome To"	No	No	No	No	No	No	Yes	No
+Zucchero & The Randy Jackson Band	"Donne"	No	No	No	No	Yes	No	No	No

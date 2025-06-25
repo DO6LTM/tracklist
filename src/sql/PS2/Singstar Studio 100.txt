@@ -1,0 +1,26 @@
+Artist	Song Title	NL	BE
+Amika	Amika	Yes	Yes
+Amika	Het is zomer	Yes	Yes
+Het Huis Anubis	Het geheim	Yes	Yes
+Het Huis Anubis	Het huis anubis	Yes	Yes
+Het Huis Anubis	Het pad der 7 zonden	Yes	Yes
+K3	Alle kleuren	Yes	Yes
+K3	Kuma hè	Yes	Yes
+K3	Kusjesdag	Yes	Yes
+K3	Oya lèlè	Yes	Yes
+K3	Ya ya yippee	Yes	Yes
+K3	Toveren	Yes	Yes
+Kabouter Plop	Het ploplied	Yes	Yes
+Kabouter Plop	Kabouterdans	Yes	Yes
+Kabouter Plop	Lalala	Yes	Yes
+Kabouter Plop	Sjoebi doebi dabidee	Yes	Yes
+Mega Mindy	Ik ben Mega Mindy	Yes	Yes
+Mega Mindy	Mega mindy tijd	Yes	Yes
+Mega Mindy	Tijd voor Mega Mindy	Yes	Yes
+Piet Piraat	Halloween	Yes	Yes
+Piet Piraat	Piet piraat	Yes	Yes
+Piet Piraat	Piet piraat is op vakantie	Yes	Yes
+Piet Piraat	Storm op zee	Yes	Yes
+Samson en Gert	De wereld is mooi	Yes	Yes
+Samson en Gert	Samsonrock	Yes	Yes
+Samson en Gert	Vrede op aarde	Yes	Yes

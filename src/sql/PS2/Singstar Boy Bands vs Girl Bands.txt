@@ -1,0 +1,31 @@
+Artist	Song Title	UK
+Bananarama	"Cruel Summer"	Yes
+Bananarama	"Love in the First Degree"	Yes
+The Bangles	"Eternal Flame"	Yes
+Boyz II Men	"I'll Make Love to You"	Yes
+Boyzone	"Love Me for a Reason"	Yes
+Bros	"I Owe You Nothing"	Yes
+Busted	"Air Hostess"	Yes
+Busted	"What I Go to School For"	Yes
+East 17	"Let It Rain"	Yes
+East 17	"Stay Another Day"	Yes
+En Vogue	"Free Your Mind"	Yes
+Five	"Everybody Get Up"	Yes
+Five	"Keep On Movin'"	Yes
+Girls Aloud	"The Show"	Yes
+Hanson	"MMMBop"	Yes
+Jade	"Don't Walk Away"	Yes
+McFly	"All About You"	Yes
+McFly	"5 Colours in Her Hair"	Yes
+Mel and Kim	"Showing Out (Get Fresh at the Weekend)"	Yes
+Mis-Teeq	"One Night Stand"	Yes
+New Edition	"Candy Girl"	Yes
+The Pussycat Dolls	"Stickwitu"	Yes
+The Shangri-Las	"Leader of the Pack"	Yes
+Sister Sledge	"He's the Greatest Dancer"	Yes
+Spice Girls	"Say You'll Be There"	Yes
+Sugababes	"About You Now"	Yes
+The Supremes	"Stop! In the Name of Love"	Yes
+Westlife	"Flying Without Wings"	Yes
+Westlife	"Swear It Again"	Yes
+Wilson Phillips	"Hold On"	Yes

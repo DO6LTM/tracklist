@@ -1,0 +1,26 @@
+Artist	Song Title	UK
+The Commodores	"Brick House"	Yes
+The Commodores	"Easy"	Yes
+The Contours	"Do You Love Me"	Yes
+David Ruffin	"Put A Little Love In Your Heart"	Yes
+Diana Ross & The Supremes	"Reflections"	Yes
+The Four Tops	"Reach Out I'll Be There"	Yes
+The Isley Brothers	"This Old Heart of Mine (Is Weak for You)"	Yes
+The Jackson 5	"ABC"	Yes
+Jimmy Ruffin	"What Becomes of the Broken Hearted"	Yes
+Lionel Richie	"My Destiny"	Yes
+Martha Reeves & the Vandellas	"Jimmy Mack"	Yes
+Martha Reeves & the Vandellas	"Nowhere to Run"	Yes
+Marvin Gaye	"Let's Get It On"	Yes
+Marvin Gaye	"What's Going On"	Yes
+Marvin Gaye & Kim Weston	"It Takes Two"	Yes
+Mary Wells	"My Guy"	Yes
+The Miracles	"Love Machine"	Yes
+Rick James	"Super Freak"	Yes
+Smokey Robinson	"Being with You"	Yes
+Smokey Robinson and The Miracles	"The Tracks of My Tears"	Yes
+Stevie Wonder	"For Once in My Life"	Yes
+The Supremes	"You Can't Hurry Love"	Yes
+The Temptations	"Get Ready"	Yes
+The Temptations	"Papa Was a Rollin' Stone"	Yes
+The Velvelettes	"Needle in A Haystack"	Yes

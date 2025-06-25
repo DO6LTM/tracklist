@@ -1,0 +1,140 @@
+Artist	Song Title	UK	NA	AU	DE	ES	FR	HR	NL
+Amaral	"Revolución"	No	No	No	No	Yes	No	No	No
+Anouk	"Girl"	No	No	No	No	No	No	No	Yes
+Anouk	"Nobody's Wife"	No	No	No	No	No	No	No	Yes
+Aretha Franklin	"Respect"	No	Yes	No	No	No	No	No	No
+Arkol	"Vingt ans"	No	No	No	No	No	Yes	No	No
+Azra	"A Šta Da Radim (live)"	No	No	No	No	No	No	Yes	No
+B-52s	"Love Shack"	No	Yes	No	No	No	No	No	No
+Bare i Placenici	"Put Ka Sreci"	No	No	No	No	No	No	Yes	No
+Barricada	"No Hay Tregua"	No	No	No	No	Yes	No	No	No
+Bénabar	"Y'a une fille qu'habite chez moi"	No	No	No	No	No	Yes	No	No
+Bloc Party	"Banquet"	Yes	Yes	No	No	No	Yes	No	Yes
+Blur	"Song 2"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Bowling For Soup	"1985"	Yes	No	Yes	Yes	No	No	No	No
+The Bravery	"An Honest Mistake"	Yes	No	No	No	No	No	Yes	No
+El Canto del Loco	"Besos"	No	No	No	No	Yes	No	No	No
+The Cardigans	"My Favourite Game"	Yes	No	Yes	No	No	No	Yes	Yes
+Christina Stürmer	"Ich Lebe 2005"	No	No	No	Yes	No	No	No	No
+The Church	"Unguarded Moment"	No	No	Yes	No	No	No	No	No
+Coldplay	"Speed of Sound"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Cristina y los Subterráneos	"Voy En Un Coche"	No	No	No	No	Yes	No	No	No
+The Cure	"Friday I'm in Love"	No	Yes	No	No	No	No	No	No
+Ðavoli	"Stojim Na Kantunu"	No	No	No	No	No	No	Yes	No
+De Kreuners	"Ik Wil Je"	No	No	No	No	No	No	No	Yes
+Deep Purple	"Smoke On The Water"	Yes	No	Yes	Yes	No	No	Yes	Yes
+Dionysos	"Tes lacets sont des fées"	No	No	No	No	No	Yes	No	No
+Di-rect	"Adrenaline"	No	No	No	No	No	No	No	Yes
+DJ Jazzy Jeff & The Fresh Prince	"Summertime"	No	Yes	No	No	No	No	No	No
+Dolly	"C'est pour toi"	No	No	No	No	No	Yes	No	No
+Dover	"Serenade"	No	No	No	No	Yes	No	No	No
+Dragon	"April Sun In Cuba"	No	No	Yes	No	No	No	No	No
+Dusty Springfield	"Son Of A Preacher Man"	No	Yes	No	No	No	No	No	No
+Echt	"Du trägst keine Liebe in dir"	No	No	No	Yes	No	No	No	No
+Elista	"Debout"	No	No	No	No	No	Yes	No	No
+Elton John	"Rocket Man"	No	Yes	No	No	No	No	No	No
+En Face	"S Dlana Boga Pala Si"	No	No	No	No	No	No	Yes	No
+End of Fashion	"O Yeah"	No	No	Yes	No	No	No	No	No
+Eskobar & Emma Daumas	"You Got Me"	No	No	No	No	No	Yes	No	No
+The Exponents	"Why Does Love Do This To Me?"	No	No	Yes	No	No	No	No	No
+Extreme	"More Than Words"	No	No	No	Yes	No	No	No	No
+Extremoduro	"So Payaso"	No	No	No	No	Yes	No	No	No
+Fall Out Boy	"Dance, Dance"	No	Yes	No	No	No	No	No	No
+Fito y Fitipaldis	"La Casa por el Tejado"	No	No	No	No	Yes	No	No	No
+Franz Ferdinand	"Do You Want To"	Yes	No	Yes	Yes	No	Yes	Yes	Yes
+GANGgajang	"Sounds Of Then (This Is Australia)"	No	No	Yes	No	No	No	No	No
+Gibonni	"Nek Se Dijete Zove Kao Ja"	No	No	No	No	No	No	Yes	No
+Gloria Gaynor	"I Will Survive"	No	Yes	No	No	No	No	No	No
+Golden Earring	"Radar Love"	No	No	No	No	No	No	No	Yes
+Golden Earring	"Twilight Zone"	No	No	No	No	No	No	No	Yes
+Good Charlotte	"Girls & Boys"	No	Yes	No	No	No	No	No	No
+Grinspoon	"Hard Act To Follow"	No	No	Yes	No	No	No	No	No
+Gustafi	"Sedan Dan"	No	No	No	No	No	No	Yes	No
+Gwen Stefani	"Cool"	No	Yes	No	No	No	No	No	No
+Gwen Stefani	"What You Waiting For?"	Yes	No	Yes	Yes	No	Yes	Yes	Yes
+Hamlet	"Antes y Después"	No	No	No	No	Yes	No	No	No
+Hard-Fi	"Hard to Beat"	Yes	No	No	No	No	No	No	No
+Heideroosjes	"Iedereen Is Gek"	No	No	No	No	No	No	No	Yes
+Héroes del Silencio	"Maldito Duende"	No	No	No	No	Yes	No	No	No
+The Hives	"Hate to Say I Told You So"	Yes	Yes	No	No	No	No	Yes	No
+Hladno Pivo	"Samo Za Taj Osjecaj"	No	No	No	No	No	No	Yes	No
+Hladno Pivo	"Zimmer Frei"	No	No	No	No	No	No	Yes	No
+Hole	"Celebrity Skin"	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes
+INXS	"Never Tear Us Apart"	No	No	Yes	No	No	No	No	No
+Jet	"Are You Gonna Be My Girl?"	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes
+Joaquín Sabina	"El Blues De Lo Que Pasa En Mi Escalera"	No	No	No	No	Yes	No	No	No
+Joss Stone	"Super Duper Love (Are You Diggin On Me?)"	No	Yes	No	No	No	No	No	No
+Juli	"Perfekte Welle"	No	No	No	Yes	No	No	No	No
+Kasabian	"Club Foot"	Yes	No	No	Yes	No	No	No	No
+Keane	"Everybody's Changing"	Yes	Yes	No	Yes	Yes	Yes	No	Yes
+The Killers	"Somebody Told Me"	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes
+Killing Heidi	"I Am"	No	No	Yes	No	No	No	No	No
+Kings of Leon	"The Bucket"	Yes	No	No	No	No	No	No	No
+Kinito	"La maison de disque"	No	No	No	No	No	Yes	No	No
+KT Tunstall	"Black Horse And The Cherry Tree"	Yes	Yes	No	Yes	No	No	No	Yes
+Kyo	"Dernière danse"	No	No	No	No	No	Yes	No	No
+Kyo feat. Sita	"Le chemin"	No	No	No	No	No	Yes	No	No
+Laufer	"Svijet Za Nas"	No	No	No	No	No	No	Yes	No
+Let 3	"Kontinento"	No	No	No	No	No	No	Yes	No
+Loquillo y los Trogloditas	"El Ritmo del Garaje"	No	No	No	No	Yes	No	No	No
+Los Piratas	"Promesas Que No Valen Nada"	No	No	No	No	Yes	No	No	No
+Los Rodríguez	"Palabras Más, Palabras Menos"	No	No	No	No	Yes	No	No	No
+Lynyrd Skynyrd	"Sweet Home Alabama"	No	Yes	No	No	No	No	No	No
+M	"Je dis aime"	No	No	No	No	No	Yes	No	No
+Mägo de Oz	"La Costa del Silencio"	No	No	No	No	Yes	No	No	No
+Marea	"Ciudad de los Gitanos"	No	No	No	No	Yes	No	No	No
+Marvin Gaye	"I Heard It Through the Grapevine"	No	Yes	No	No	No	No	No	No
+Mass Hysteria	"Remède"	No	No	No	No	No	Yes	No	No
+Matthias Reim	"Verdammt, Ich Lieb Dich"	No	No	No	Yes	No	No	No	No
+Maxïmo Park	"Apply Some Pressure"	Yes	No	No	No	No	No	No	No
+M-Clan	"Sopa Fría"	No	No	No	No	Yes	No	No	No
+Medina Azahara	"Necesito Respirar"	No	No	No	No	Yes	No	No	No
+Men at Work	"Down Under"	No	No	Yes	No	No	No	No	No
+Miossec	"Je m'en vais"	No	No	No	No	No	Yes	No	No
+Naked Eyes	"(There's) Always Something There to Remind Me"	No	Yes	No	No	No	No	No	No
+Nirvana	"Come As You Are"	Yes	No	Yes	Yes	Yes	Yes	Yes	Yes
+The Offspring	"Self Esteem"	Yes	Yes	Yes	Yes	Yes	Yes	No	Yes
+Parni Valjak	"Lutka za bal (live)"	No	No	No	No	No	No	Yes	No
+Pereza	"Pienso en Aquella Tarde"	No	No	No	No	Yes	No	No	No
+Peter Koelewijn	"Kom Van Dat Dak Af"	No	No	No	No	No	No	No	Yes
+Platero y Tú	"Juliette"	No	No	No	No	Yes	No	No	No
+The Police	"Every Breath You Take"	No	Yes	No	No	No	No	No	No
+Porretas	"Pongamos Que Hablo de Madrid"	No	No	No	No	Yes	No	No	No
+Powderfinger	"(Baby I've Got You) On My Mind"	No	No	Yes	No	No	No	No	No
+Powderfinger	"These Days"	No	No	Yes	No	No	No	No	No
+Prljavo Kazalište	"Heroj Ulice"	No	No	No	No	No	No	Yes	No
+Psihomodo Pop	"Ja Volim Samog Sebe"	No	No	No	No	No	No	Yes	No
+Queen	"Don't Stop Me Now"	Yes	No	No	Yes	No	No	No	Yes
+Queens of the Stone Age	"Go With The Flow"	Yes	No	No	No	No	No	Yes	Yes
+Raphaël	"Caravane"	No	No	No	No	No	Yes	No	No
+Razorlight	"Somewhere Else"	Yes	No	No	Yes	No	No	No	No
+Revolverheld	"Die Welt Steht Still"	No	No	No	Yes	No	No	No	No
+The Rolling Stones	"Paint It, Black"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Rosendo	"Vaya Ejemplar de Primavera"	No	No	No	No	Yes	No	No	No
+Rosenstolz	"Es Könnt' Ein Anfang Sein"	No	No	No	Yes	No	No	No	No
+Scissor Sisters	"Take Your Mama"	No	Yes	No	No	No	No	No	No
+Scorpions	"Wind Of Change"	Yes	Yes	Yes	Yes	No	No	Yes	Yes
+The Screaming Jets	"Better"	No	No	Yes	No	No	No	No	No
+Seguridad Social	"Quiero Tener Tu Presencia"	No	No	No	No	Yes	No	No	No
+Selig	"Ist Es Wichtig?"	No	No	No	Yes	No	No	No	No
+Shocking Blue	"Venus"	No	No	No	No	No	No	No	Yes
+Silmarils	"Vas y avoir du sport"	No	No	No	No	No	Yes	No	No
+Sinclair	"Ca m'fait plus mal"	No	No	No	No	No	Yes	No	No
+Sinclair	"Supernova superstar"	No	No	No	No	No	Yes	No	No
+Siniestro Total	"¿Quiénes Somos? ¿De Dónde Venimos? ¿A Dónde Vamos?"	No	No	No	No	Yes	No	No	No
+Snow Patrol	"Run"	Yes	No	No	No	No	No	Yes	No
+Sôber	"Arrepentido"	No	No	No	No	Yes	No	No	No
+Soulwax	"Caramel"	No	No	No	No	No	No	No	Yes
+Stash	"Sadness"	No	No	No	No	No	No	No	Yes
+Stereophonics	"Dakota"	Yes	No	Yes	No	No	No	No	No
+Superbus	"Radio Song"	No	No	No	No	No	Yes	No	No
+The Swingers	"Counting The Beat"	No	No	Yes	No	No	No	No	No
+Têtes Raides	"Fragile"	No	No	No	No	No	Yes	No	No
+Thin Lizzy	"The Boys Are Back in Town"	Yes	Yes	Yes	Yes	No	No	No	Yes
+Tocotronic	"This Boy Is Tocotronic"	No	No	No	Yes	No	No	No	No
+The Undertones	"Teenage Kicks"	Yes	No	No	Yes	No	No	No	No
+The Veronicas	"4ever"	No	No	Yes	No	No	No	No	No
+Vještice	"Totalno Drukciji Od Drugih"	No	No	No	No	No	No	Yes	No
+The White Stripes	"Blue Orchid"	No	Yes	No	No	No	No	No	No
+Wir sind Helden	"Denkmal"	No	No	No	Yes	No	No	No	No
+Zadruga	"Mala Cici"	No	No	No	No	No	No	Yes	No

@@ -1,0 +1,67 @@
+Artist	Song Title	UK	DE	ES	FR	IT
+A-ha	"Take On Me"	Yes	Yes	Yes	Yes	Yes
+Alexia	"Egoista"	No	No	No	No	Yes
+Atomic Kitten	"Eternal Flame"	Yes	Yes	Yes	Yes	Yes
+Avril Lavigne	"Complicated"	Yes	Yes	Yes	Yes	Yes
+Azúcar Moreno	"Sólo se vive una vez"	No	No	Yes	No	No
+Beth	"Dime"	No	No	Yes	No	No
+Blondie	"Heart of Glass"	Yes	No	No	Yes	Yes
+Blue	"One Love"	Yes	Yes	No	Yes	Yes
+Bro'Sis	"Do You"	No	Yes	No	No	No
+Busted	"Crashed the Wedding"	Yes	No	Yes	No	Yes
+Cali	"C'est Quand Le Bonheur"	No	No	No	Yes	No
+Carl Douglas	"Kung Fu Fighting"	Yes	Yes	No	Yes	No
+Daniel Bedingfield	"If You're Not the One"	Yes	No	No	No	No
+Daniele Silvestri	"Salirò"	No	No	No	No	Yes
+The Darkness	"I Believe in a Thing Called Love"	Yes	No	Yes	Yes	Yes
+David Civera	"Bye Bye"	No	No	Yes	No	No
+Deee-Lite	"Groove Is in the Heart"	Yes	No	No	Yes	Yes
+Dido	"Thank You"	Yes	Yes	Yes	Yes	Yes
+Die Toten Hosen	"Steh auf, wenn du am Boden bist"	No	Yes	No	No	No
+Elvis Presley	"Suspicious Minds"	Yes	Yes	Yes	Yes	Yes
+Emma Daumas	"Tu Seras"	No	No	No	Yes	No
+Falco	"Rock Me Amadeus"	No	Yes	No	No	No
+Fantastischen Vier	"Sie Ist Weg"	No	Yes	No	No	No
+George Michael	"Careless Whisper"	Yes	Yes	Yes	Yes	Yes
+Gloria Estefan	"Hoy"	No	No	Yes	No	No
+Good Charlotte	"Girls & Boys"	Yes	No	Yes	No	No
+Guaraná	"Noche en vela"	No	No	Yes	No	No
+Hombres G	"Lo Noto"	No	No	Yes	No	No
+Hombres G	"No Te Escaparás"	No	No	Yes	No	No
+Jamelia	"Superstar"	Yes	Yes	Yes	Yes	Yes
+Jamiroquai	"Deeper Underground"	No	Yes	No	No	No
+Jessica Marquez	"Magdalena"	No	No	No	Yes	No
+Juanes	"A Dios le Pido"	No	No	Yes	No	No
+Junior	"Down"	No	No	Yes	No	No
+La Differenza	"In un istante"	No	No	No	No	Yes
+La Oreja de Van Gogh	"20 de enero"	No	No	Yes	No	No
+La Oreja de Van Gogh	"Puedes Contar Conmigo"	No	No	Yes	No	No
+Laith Al-Deen	"Bilder Von Dir"	No	Yes	No	No	No
+Lemar	"50/50"	Yes	No	No	No	No
+Liberty X	"Just a Little"	Yes	No	No	Yes	Yes
+Lightning Seeds	"Three Lions"	No	Yes	No	No	No
+Los Rodríguez	"Sin Documentos"	No	No	Yes	No	No
+Madonna	"Like a Virgin"	Yes	Yes	Yes	Yes	Yes
+Mis-Teeq	"Scandalous"	Yes	No	No	Yes	Yes
+Motörhead	"Ace of Spades"	Yes	Yes	No	No	Yes
+Natalia Lafourcade	"En el 2000"	No	No	Yes	No	No
+No Angels	"Someday"	No	Yes	No	No	No
+Paola e Chiara	"Vamos a bailar"	No	No	No	No	Yes
+Patrick Nuo	"5 Days"	No	Yes	No	No	No
+Peter Schilling	"Major Tom"	No	Yes	No	No	No
+Petula Clark	"Downtown"	Yes	Yes	No	No	No
+P!nk	"Get the Party Started"	Yes	Yes	Yes	Yes	Yes
+Rick Astley	"Never Gonna Give You Up"	Yes	Yes	No	Yes	Yes
+Ricky Martin	"Livin' la Vida Loca"	Yes	Yes	Yes	Yes	Yes
+Rosario	"Mi Gato"	No	No	Yes	No	No
+Roy Orbison	"Oh, Pretty Woman"	Yes	Yes	Yes	Yes	Yes
+S Club	"Don't Stop Movin'"	Yes	Yes	No	Yes	Yes
+Sinclair	"Ensemble"	No	No	No	Yes	No
+Sinclair	"Si C'est Bon Comme Ça"	No	No	No	Yes	No
+Sinclair	"Votre Image"	No	No	No	Yes	No
+Sophie Ellis-Bextor	"Murder on the Dancefloor"	Yes	Yes	No	Yes	Yes
+Subsonica	"Nuova ossessione"	No	No	No	No	Yes
+Sugababes	"Round Round"	Yes	Yes	Yes	No	Yes
+Tragédie	"Hey Oh!"	No	No	No	Yes	No
+Village People	"Y.M.C.A."	Yes	Yes	Yes	Yes	Yes
+Westlife	"World of Our Own"	Yes	No	No	Yes	Yes

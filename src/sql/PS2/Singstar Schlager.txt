@@ -1,0 +1,31 @@
+Artist	Song Title	DE
+Bernd Clüver	"Der Junge mit der Mundharmonika"	Yes
+Bino	"Mama Leone"	Yes
+Chris Roberts	"Du kannst nicht immer siebzehn sein"	Yes
+Cindy & Bert	"Immer wieder Sonntags"	Yes
+Costa Cordalis	"Anita"	Yes
+Dschinghis Khan	"Dschinghis Khan"	Yes
+Gebrüder Blattschuss	"Kreuzberger Nächte"	Yes
+Gitte	"So schön kann doch kein Mann sein"	Yes
+Gus Backus	"Da sprach der alte Häuptling der Indianer"	Yes
+Henry Valentino & Uschi	"Im Wagen vor mir"	Yes
+Howard Carpendale	"Hello Again"	Yes
+Howard Carpendale	"Tür an Tür mit Alice"	Yes
+Juliane Werding	"Am Tag als Conny Kramer starb"	Yes
+Jürgen Marcus	"Eine neue Liebe ist wie ein neues Leben"	Yes
+Klaus & Klaus	"An der Nordseeküste"	Yes
+Marianne Rosenberg	"Er gehört zu mir"	Yes
+Michael Holm	"Mendocino"	Yes
+Michael Holm	"Tränen lügen nicht"	Yes
+Nicole	"Ein bisschen Frieden"	Yes
+Peter Alexander	"Kleine Kneipe"	Yes
+Peter Maffay	"Und es war Sommer"	Yes
+Rainhard Fendrich	"Macho Macho"	Yes
+Rex Gildo	"Fiesta Mexicana"	Yes
+Roberto Blanco	"Ein bisschen Spaß muss sein"	Yes
+Roland Kaiser	"Dich zu lieben"	Yes
+Roy Black & Anita	"Schön ist es auf der Welt zu sein"	Yes
+Siw Malmkvist	"Liebeskummer lohnt sich nicht"	Yes
+Tony Marshall	"Schöne Maid"	Yes
+Wencke Myhre	"Er hat ein knallrotes Gummiboot"	Yes
+Wolfgang Petry	"Verlieben, verloren, vergessen, verzeih'n"	Yes

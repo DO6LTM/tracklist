@@ -1,0 +1,46 @@
+Artist	Song Title	UK	PL
+The 411	"Dumb"	Yes	No
+Amerie	"1 Thing"	Yes	Yes
+Amy Winehouse	"Back To Black"	Yes	Yes
+Anastacia	"I'm Outta Love"	Yes	Yes
+Andrzej Piaseczny	"...I jeszcze"	No	Yes
+Ania	"Tego chcialam"	No	Yes
+Ania Szarmach	"Silna"	No	Yes
+Beverley Knight	"Come As You Are"	Yes	No
+Black Eyed Peas	"Pump It"	Yes	Yes
+Brodka	"Miales byc"	No	Yes
+Chris Brown	"Yo (Excuse Me Miss)"	Yes	Yes
+Christina Milian	"AM To PM"	Yes	No
+Corinne Bailey Rae	"I'd Like To"	Yes	No
+Destiny's Child	"Bootylicious"	Yes	Yes
+Diana Ross & The Supremes	"Baby Love"	Yes	No
+DJ Jazzy Jeff & The Fresh Prince	"Summertime"	Yes	Yes
+Edwin Starr	"War"	Yes	No
+En Vogue	"My Lovin'"	Yes	No
+The Four Tops	"I Can't Help Myself"	Yes	No
+Gwen Stefani	"Hollaback Girl"	Yes	Yes
+Inner City	"Good Life"	Yes	No
+Jamelia	"Thank You"	Yes	No
+Jamiroquai	"Alright"	Yes	Yes
+Justyna Steczkowska	"Za kare"	No	Yes
+Kasia Cerekwicka	"Ostatnia szansa"	No	Yes
+Kasia Kowalska	"Prowadz mnie"	No	Yes
+Kayah	"Supermenka"	No	Yes
+Luther Vandross	"Never Too Much"	Yes	Yes
+Mark Ronson feat. Daniel Merriweather	"Stop Me"	Yes	No
+Martha Reeves & The Vandellas	"Dancing In The Street"	Yes	No
+Marvin Gaye & Tammi Tarrell	"Ain't No Mountain High Enough"	Yes	No
+Natalia Kukulska	"Im wiecej Ciebie tym mniej"	No	Yes
+Nowator	"Przez chwile"	No	Yes
+OutKast	"Idlewild Blue (Don'tchu Worry 'Bout Me)"	Yes	Yes
+The Pussycat Dolls	"Buttons"	Yes	Yes
+Rihanna	"We Ride"	Yes	Yes
+Salt'N'Pepa	"Push It"	Yes	Yes
+Sistars	"Skad ja Cie mam"	No	Yes
+Stachursky	"Z kazdym twym oddechem"	No	Yes
+Sugababes	"Ugly"	Yes	No
+Tatiana & Blue Café	"You May Be In love"	No	Yes
+Teka feat. Fame District	"Chodz do mnie"	No	Yes
+Virgin	"Szansa"	No	Yes
+Whitney Houston	"My Love Is Your Love"	Yes	Yes
+Womack & Womack	"Teardrops"	Yes	No

@@ -1,0 +1,86 @@
+Artist	Song Title	UK	DE	ES	FR	IT
+883	"Come Mai"	No	No	No	No	Yes
+African Connection	"Ami-Oh"	No	No	No	Yes	No
+Alejandro Sanz	"No Es Lo Mismo"	No	No	Yes	No	No
+Álex Ubago	"Sin Miedo A Nada"	No	No	Yes	No	No
+Alexia	"Dimmi come..."	No	No	No	No	Yes
+Alicia Keys	"Fallin'"	Yes	Yes	No	Yes	Yes
+Anna Oxa	"Laisse Parler Les Gens!!!"	No	No	No	No	Yes
+Ashford & Simpson	"Solid"	Yes	Yes	No	No	No
+Aventura	"Obsesión"	No	No	No	Yes	No
+Bananarama	"Venus"	No	Yes	No	No	No
+The Beautiful South	"A Little Time"	Yes	No	No	No	No
+Bill Withers	"Ain't No Sunshine"	Yes	Yes	No	No	Yes
+Billy Crawford	"Bright Light"	No	No	No	Yes	No
+Blu Cantrell	"Hit 'Em Up Style (Oops!)"	Yes	No	No	No	No
+Bluvertigo	"Altre Forme Di Vita"	No	No	No	No	Yes
+Bob Marley	"No Woman, No Cry"	Yes	Yes	No	Yes	Yes
+Buggles	"Video Killed the Radio Star"	Yes	Yes	Yes	Yes	Yes
+Busted	"Year 3000"	Yes	No	No	Yes	No
+Café Quijano	"La Lola"	No	No	Yes	No	No
+Coti	"Otra Vez"	No	No	Yes	No	No
+Culture Club	"Do You Really Want to Hurt Me"	No	Yes	No	No	No
+Cyndi Lauper	"Girls Just Wanna Have Fun"	Yes	Yes	No	Yes	Yes
+Daniele Stefani	"Un Giorno D'amore"	No	No	No	No	Yes
+David Bisbal	"Ave María"	No	No	Yes	No	No
+David Bustamante & Alex	"Dos Hombres Y Un Destino"	No	No	Yes	No	No
+David Lee Roth	"Just A Gigolo/I Ain't Got Nobody"	No	Yes	No	No	No
+Destiny's Child	"Survivor"	Yes	Yes	No	Yes	Yes
+Dido	"White Flag"	Yes	Yes	No	Yes	Yes
+Dieter Thomas Kuhn	"Es war Sommer"	No	Yes	No	No	No
+Dis L'heure 2 Zouk	"Laisse Parler Les Gens!!!"	No	No	No	Yes	No
+Duncan Dhu	"En Algún Lugar"	No	No	Yes	No	No
+Duran Duran	"Hungry Like the Wolf"	Yes	Yes	No	No	Yes
+Edoardo Bennato	"Si Tratta Dell'amore"	No	No	No	No	Yes
+Elton John & Kiki Dee	"Don't Go Breaking My Heart"	Yes	Yes	Yes	Yes	Yes
+Elvis Presley	"Way Down"	Yes	Yes	No	No	No
+Fangoria	"Retorciendo Palabras"	No	No	Yes	No	No
+Fiorello	"Vivere A Colori"	No	No	No	No	Yes
+The Foundations	"Build Me Up Buttercup"	Yes	Yes	Yes	Yes	Yes
+Fran Perea	"Uno Más Uno Son Siete"	No	No	Yes	No	No
+Franz Ferdinand	"Take Me Out"	Yes	No	No	Yes	Yes
+George Michael	"Faith"	Yes	Yes	No	Yes	Yes
+Irene Grandi	"Bambine Cattive"	No	No	No	No	Yes
+Jamiroquai	"Cosmic Girl"	Yes	Yes	No	Yes	Yes
+Jarabe de Palo	"Yin Yang"	No	No	Yes	No	No
+Javine	"Real Things"	Yes	No	No	No	No
+Juanes	"Es Por Ti"	No	No	Yes	No	No
+Ketama	"Tú Volverás"	No	No	Yes	No	No
+Klaus Lage	"1000 und 1 Nacht"	No	Yes	No	No	No
+K-Maro	"Femme Like U"	No	No	No	Yes	No
+Kylie Minogue	"I Should Be So Lucky"	Yes	Yes	No	Yes	No
+Little Richard	"Tutti Frutti"	Yes	Yes	No	Yes	No
+Loredana Bertè	"Il Mare D'inverno"	No	No	No	No	Yes
+Lynnsha	"S'evader"	No	No	No	Yes	No
+M Clan	"Carolina"	No	No	Yes	No	No
+Maroon 5	"This Love"	Yes	Yes	No	Yes	Yes
+Marta Sánchez	"Desesperada"	No	No	Yes	No	No
+Miguel Bosé	"Amante Bandido"	No	No	Yes	No	No
+Miguel Ríos	"Bienvenidos"	No	No	Yes	No	No
+Mürfila	"Loko"	No	No	Yes	No	No
+Nacha Pop	"La Chica de Ayer"	No	No	Yes	No	No
+Nâdiya	"Et C'est Parti"	No	No	No	Yes	No
+Nâdiya	"Parle-Moi"	No	No	No	Yes	No
+Natasha Bedingfield	"Single"	Yes	No	No	No	No
+New Model Army	"51st State of America"	No	Yes	No	No	No
+Nino Bravo	"Un Beso Y Una Flor"	No	No	Yes	No	No
+La Oreja de Van Gogh	"Rosas"	No	No	Yes	No	No
+Paola e Chiara	"Blu"	No	No	No	No	Yes
+Pearl	"J'ai Des Choses À Te Dire"	No	No	No	Yes	No
+Pink	"Just Like a Pill"	Yes	Yes	Yes	Yes	Yes
+The Police	"Every Breath You Take"	Yes	Yes	Yes	Yes	Yes
+Presuntos Implicados	"Cómo Hemos Cambiado"	No	No	Yes	No	No
+Revólver	"Si Es Tan Sólo Amor"	No	No	Yes	No	No
+Rio Reiser	"König von Deutschland"	No	Yes	No	No	No
+Roser	"Quiero Besarte"	No	No	Yes	No	No
+Scissor Sisters	"Take Your Mama"	Yes	No	No	No	No
+Seguridad Social	"Chiquilla"	No	No	Yes	No	No
+Sonny & Cher	"I Got You Babe"	Yes	Yes	Yes	Yes	Yes
+Spagna	"Gente Come Noi"	No	No	No	No	Yes
+Spandau Ballet	"Gold"	Yes	Yes	No	No	No
+Spice Girls	"Who Do You Think You Are"	Yes	Yes	No	Yes	Yes
+Spider Murphy Gang	"Skandal im Sperrbezirk"	No	Yes	No	No	No
+Tiffany	"I Think We're Alone Now"	Yes	No	No	No	No
+Willy Denzey	"L'Orphelin"	No	No	No	Yes	No
+Willy Denzey	"Le Mur Du Son"	No	No	No	Yes	No
+Zeropositivo	"Fasi"	No	No	No	No	Yes

@@ -1,0 +1,24 @@
+Artist	Song Title	UK	ES
+ABBA	"Chiquitita"	Yes	Yes
+ABBA	"Dancing Queen"	Yes	Yes
+ABBA	"Does Your Mother Know"	Yes	Yes
+ABBA	"Estoy soñando"	No	Yes
+ABBA	"Felicidad"	No	Yes
+ABBA	"Fernando"	Yes	Yes
+ABBA	"Gimme! Gimme! Gimme! (A Man After Midnight)"	Yes	Yes
+ABBA	"I Do, I Do, I Do, I Do, I Do"	Yes	Yes
+ABBA	"Knowing Me, Knowing You"	Yes	Yes
+ABBA	"Mamma Mia"	Yes	Yes
+ABBA	"Money, Money, Money"	Yes	Yes
+ABBA	"No hay a quien culpar"	No	Yes
+ABBA	"One of Us"	Yes	No
+ABBA	"Ring Ring"	Yes	Yes
+ABBA	"SOS"	Yes	Yes
+ABBA	"Summer Night City"	Yes	Yes
+ABBA	"Super Trouper"	Yes	Yes
+ABBA	"Take a Chance on Me"	Yes	Yes
+ABBA	"Thank You for the Music"	Yes	Yes
+ABBA	"The Name of The Game"	Yes	No
+ABBA	"The Winner Takes It All"	Yes	Yes
+ABBA	"Voulez-Vous"	Yes	Yes
+ABBA	"Waterloo"	Yes	Yes

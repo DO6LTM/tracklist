@@ -1,0 +1,65 @@
+Artist	Song Title	NA	AU	DE
+4 Non Blondes	"What's Up?"	No	Yes	No
+Alice in Chains	"Would?"	Yes	No	No
+Audioslave	"Cochise"	Yes	No	No
+Beatsteaks	"Cut off the Top"	No	No	Yes
+Blind	"Break Away"	No	No	Yes
+Blink-182	"I Miss You"	Yes	Yes	Yes
+Blue Öyster Cult	"(Don't Fear) The Reaper"	Yes	Yes	Yes
+Bonfire	"You Make Me Feel"	No	No	Yes
+Boston	"More Than a Feeling"	Yes	No	No
+Caesars	"Jerk It Out"	No	No	Yes
+Cheap Trick	"I Want You to Want Me"	Yes	Yes	Yes
+The Choirboys	"Run to Paradise"	No	Yes	No
+The Cure	"Primary"	No	Yes	No
+David Bowie	"Changes"	Yes	Yes	Yes
+Die Toten Hosen	"Warum Werde Ich Nicht Satt"	No	No	Yes
+Divinyls	"Boys in Town"	No	Yes	No
+Faith No More	"Evidence"	No	Yes	No
+Faker	"This Heart Attack"	No	Yes	No
+Fall Out Boy	"This Ain't a Scene, It's an Arms Race"	Yes	Yes	Yes
+Foo Fighters	"Best of You"	Yes	No	No
+Franz Ferdinand	"Take Me Out"	No	No	Yes
+Free	"All Right Now"	Yes	Yes	Yes
+Good Charlotte	"Dance Floor Anthem (I Don't Want to Be in Love)"	No	No	Yes
+Gotthard	"Lift U Up"	No	No	Yes
+Grinspoon	"Chemical Heart"	No	Yes	No
+The Hives	"Walk Idiot Walk"	No	No	Yes
+Iggy Pop	"Real Wild Child (Wild One)"	Yes	Yes	Yes
+In Extremo	"Küss Mich"	No	No	Yes
+Judas Priest	"Breaking the Law"	No	Yes	Yes
+Judas Priest	"You've Got Another Thing Comin'"	Yes	Yes	Yes
+Kasabian	"L. S. F. (Lost Souls Forever)"	No	Yes	Yes
+The Killers	"When You Were Young"	Yes	No	No
+Mando Diao	"Long Before Rock 'n' Roll"	No	No	Yes
+The Mighty Mighty Bosstones	"The Impression That I Get"	No	Yes	No
+Motörhead	"Ace of Spades"	Yes	No	No
+Nickelback	"Savin' Me"	Yes	No	No
+Nirvana	"Come as You Are"	Yes	No	No
+O.A.R.	"Love and Memories"	Yes	No	Yes
+Pearl Jam	"Alive"	Yes	No	No
+Poison	"Every Rose Has Its Thorn"	Yes	No	No
+Queens of the Stone Age	"Go with the Flow"	Yes	No	No
+Quiet Riot	"Cum On Feel the Noize"	Yes	Yes	Yes
+Radiohead	"Creep"	Yes	No	No
+Ramones	"Blitzkrieg Bop"	Yes	No	No
+Regurgitator	"Black Bugs"	No	Yes	No
+Robert Palmer	"Addicted to Love"	No	Yes	No
+The Saints	"I'm Stranded"	No	Yes	No
+Scorpions	"Rock You Like a Hurricane"	No	No	Yes
+Silverchair	"The Greatest View"	No	Yes	No
+Skunk Anansie	"Weak"	No	Yes	Yes
+Soul Asylum	"Runaway Train"	No	Yes	Yes
+Spiderbait	"Blackbetty"	No	Yes	No
+Steppenwolf	"Born to Be Wild"	Yes	No	No
+Stone Temple Pilots	"Vasoline"	Yes	No	No
+Sublime	"Santeria"	Yes	No	Yes
+The Subways	"Rock & Roll Queen"	No	Yes	Yes
+Talking Heads	"Burning Down the House"	Yes	No	No
+Tonic	"If You Could Only See"	No	Yes	No
+T. Rex	"20th Century Boy"	No	Yes	No
+Warrant	"Cherry Pie"	No	Yes	Yes
+Wolfmother	"Woman"	No	No	Yes
+Yeah Yeah Yeahs	"Gold Lion"	Yes	No	No
+Yes	"Owner of a Lonely Heart"	Yes	No	No
+ZZ Top	"Gimme All Your Lovin'"	Yes	No	No

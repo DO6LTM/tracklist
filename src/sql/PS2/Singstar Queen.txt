@@ -1,0 +1,22 @@
+Artist	Song Title	UK	NA	DE	NL	DK	SE	NO	FI
+Queen	"Another One Bites The Dust"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Queen	"Bicycle Race"	Yes	No	Yes	Yes	Yes	Yes	Yes	Yes
+Queen	"Bohemian Rhapsody"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Queen	"Breakthru"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Queen	"Crazy Little Thing Called Love"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Queen	"Don't Stop Me Now"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Queen	"Fat Bottomed Girls"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Queen	"I Want It All"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Queen	"I Want To Break Free"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Queen	"Innuendo"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Queen	"One Vision"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Queen	"Play The Game"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Queen	"Save Me"	No	Yes	No	No	No	Yes	Yes	Yes
+Queen	"Somebody To Love"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Queen	"These Are The Days Of Our Lives"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Queen	"Tie Your Mother Down"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Queen feat. David Bowie	"Under Pressure"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Queen	"We Are The Champions"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Queen	"We Will Rock You"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Queen	"Who Wants To Live Forever"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Queen	"You're My Best Friend"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes

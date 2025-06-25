@@ -1,0 +1,153 @@
+Artist	Song Title	UK	NA	AU	DE	ES	IT	NO	SE	NL
+3 Doors Down	"Kryptonite"	No	Yes	No	No	No	No	No	No	No
+Aeroplanitaliani	"Canzone D'amore"	No	No	No	No	No	Yes	No	No	No
+Afro-dite	"Never Let It Go"	No	No	No	No	No	No	No	Yes	No
+Afterhours	"Non È Per Sempre"	No	No	No	No	No	Yes	No	No	No
+A-ha	"The Sun Always Shines on T.V."	No	No	No	No	No	No	Yes	No	No
+A-ha	"Take On Me"	No	Yes	No	No	No	No	No	No	No
+Alex Britti	"Oggi Sono Io"	No	No	No	No	No	Yes	No	No	No
+Alexia	"Da Grande"	No	No	No	No	No	Yes	No	No	No
+Alicia Keys	"Fallin'"	No	Yes	No	No	No	No	No	No	No
+The All-American Rejects	"Move Along"	No	Yes	No	No	No	No	No	No	No
+Amaral	"Sin Tí No Soy Nada"	No	No	No	No	Yes	No	No	No	No
+Amaral	"El Universo Sobre Mí"	No	No	No	No	Yes	No	No	No	No
+Amistades Peligrosas	"Estoy Por Tí"	No	No	No	No	Yes	No	No	No	No
+Anna Book	"ABC"	No	No	No	No	No	No	No	Yes	No
+Annett Louisan	"Das Spiel"	No	No	No	Yes	No	No	No	No	No
+Annie	"Heartbeat"	Yes	No	No	No	No	No	Yes	No	Yes
+Arne Schau Knudsen	"Gal Av Lengsel"	No	No	No	No	No	No	Yes	No	No
+El Arrebato	"Búscate Un Hombre Que Te Quiera"	No	No	No	No	Yes	No	No	No	No
+El Arrebato	"Una Noche Con Arte"	No	No	No	No	Yes	No	No	No	No
+Arvingarna	"Eloise"	No	No	No	No	No	No	No	Yes	No
+Ashlee Simpson	"Invisible"	No	Yes	No	No	No	No	No	No	No
+Ashlee Simpson	"Pieces of Me"	Yes	No	Yes	Yes	No	No	No	No	Yes
+Attack	"Ooa hela natten"	No	No	No	No	No	No	No	Yes	No
+Avril Lavigne	"Sk8er Boi"	Yes	Yes	Yes	Yes	No	Yes	Yes	No	Yes
+Barbados	"Kom hem"	No	No	No	No	No	No	No	Yes	No
+Beyoncé	"Crazy in Love"	Yes	No	Yes	Yes	No	Yes	Yes	Yes	Yes
+Biagio Antonacci	"Convivendo"	No	No	No	No	No	Yes	No	No	No
+Bic Runga	"Sway"	No	No	Yes	No	No	No	No	No	No
+Bigbang	"Girl In Oslo"	No	No	No	No	No	No	Yes	No	No
+Black Eyed Peas	"Shut Up"	Yes	No	Yes	Yes	No	Yes	No	No	Yes
+Blink-182	"What's My Age Again?"	Yes	No	Yes	Yes	No	Yes	Yes	Yes	Yes
+Blue October	"Hate Me"	No	Yes	No	No	No	No	No	No	No
+Britney Spears	"...Baby One More Time"	No	Yes	No	No	No	No	No	No	No
+Camela	"Cuando Zarpa El Amor"	No	No	No	No	Yes	No	No	No	No
+Carola	"Fångad av en stormvind"	No	No	No	No	No	No	No	Yes	No
+Cartel	"Honestly"	No	Yes	No	No	No	No	No	No	No
+Christian Walz	"Never Be Afraid Again"	No	No	No	No	No	No	No	Yes	No
+The Clash	"Should I Stay or Should I Go"	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes
+Cyndi Lauper	"Girls Just Wanna Have Fun"	No	Yes	No	No	No	No	No	No	No
+The Dandy Warhols	"Bohemian Like You"	Yes	No	Yes	Yes	No	Yes	No	No	Yes
+Daniel Lindström	"Coming True"	No	No	No	No	No	No	No	Yes	No
+Daniel Powter	"Bad Day"	No	Yes	No	No	No	No	No	No	No
+Darin	"Money for Nothing"	No	No	No	No	No	No	No	Yes	No
+David	"Wild at Heart"	No	No	No	No	No	No	Yes	No	No
+David Bisbal	"Bulería"	No	No	No	No	Yes	No	No	No	No
+David Bisbal	"Camina y Ven"	No	No	No	No	Yes	No	No	No	No
+Delta Goodrem	"Born to Try"	No	No	Yes	No	No	No	No	No	No
+Destiny's Child	"Survivor"	No	Yes	No	No	No	No	No	No	No
+La Differenza	"Che Farò"	No	No	No	No	No	Yes	No	No	No
+Dollie	"Lenge leve livet"	No	No	No	No	No	No	Yes	No	No
+DumDum Boys	"Splinter Pine"	No	No	No	No	No	No	Yes	No	No
+Elefantes	"Que Yo No Lo Sabía"	No	No	No	No	Yes	No	No	No	No
+ELISA	"Luce"	No	No	No	No	No	Yes	No	No	No
+Ella Baila Sola	"Cuando Los Sapos Bailen Flamenco"	No	No	No	No	Yes	No	No	No	No
+Ella Baila Sola	"Lo Echamos A Suertes"	No	No	No	No	Yes	No	No	No	No
+Eric B. & Rakim	"Paid in Full"	Yes	No	Yes	No	No	No	No	No	Yes
+Evermore	"It's Too Late"	No	No	Yes	No	No	No	No	No	No
+Die Fantastischen Vier	"Geboren"	No	No	No	Yes	No	No	No	No	No
+Fountains of Wayne	"Stacy's Mom"	Yes	No	Yes	No	No	No	No	No	Yes
+Francesco Renga	"Meravigliosa"	No	No	No	No	No	Yes	No	No	No
+Franz Ferdinand	"Take Me Out"	No	Yes	No	No	No	No	No	No	No
+The Fray	"Over My Head (Cable Car)"	No	Yes	No	No	No	No	No	No	No
+Friends	"Lyssna Till Ditt Hjärta"	No	No	No	No	No	No	No	Yes	No
+Gabinete Caligari	"La Culpa Fue Del Cha-Cha-Chá"	No	No	No	No	Yes	No	No	No	No
+Girls Aloud	"Love Machine"	Yes	No	No	No	No	No	No	No	Yes
+Good Charlotte	"I Just Wanna Live"	Yes	No	Yes	Yes	No	Yes	No	Yes	Yes
+Gorillaz	"Feel Good Inc."	No	Yes	No	No	No	No	No	No	No
+Héroes del Silencio	"Iberia Sumergida"	No	No	No	No	Yes	No	No	No	No
+Héroes del Silencio	"Mar Adentro"	No	No	No	No	Yes	No	No	No	No
+Hinder	"Lips Of An Angel"	No	Yes	No	No	No	No	No	No	No
+The Hives	"Main Offender"	Yes	No	No	No	No	No	No	Yes	Yes
+Hoobastank	"The Reason"	Yes	Yes	Yes	Yes	No	Yes	No	No	Yes
+Iguana Tango	"Te Perdí"	No	No	No	No	Yes	No	No	No	No
+INXS	"New Sensation"	No	No	Yes	No	No	No	No	No	No
+Jaa9 & OnklP	"Kjendisparty"	No	No	No	No	No	No	Yes	No	No
+Jamelia	"Stop"	Yes	No	Yes	Yes	No	No	No	No	Yes
+James Blunt	"You're Beautiful"	No	Yes	No	No	No	No	No	No	No
+Jan Eggum	"Pa An Igjen"	No	No	No	No	No	No	Yes	No	No
+Jarabe de Palo	"La Flaca"	No	No	No	No	Yes	No	No	No	No
+Jay Sean feat. Rishi Rich	"Eyes on You"	Yes	No	No	No	No	No	No	No	Yes
+Jesse McCartney	"Beautiful Soul"	No	Yes	No	No	No	No	No	No	No
+Jimmy Jansson	"Vi kan gunga"	No	No	No	No	No	No	No	Yes	No
+Joss Stone	"Super Duper Love (Are You Diggin' on Me)"	Yes	No	No	Yes	No	Yes	Yes	No	Yes
+Kaptein Sabeltann	"Vi Seiler Vår Egen Sjø"	No	No	No	No	No	No	Yes	No	No
+Keane	"Somewhere Only We Know"	Yes	No	No	Yes	No	Yes	No	No	Yes
+The Kids	"Forelska I Laerer'n"	No	No	No	No	No	No	Yes	No	No
+Kine	"In The Air Tonight"	No	No	No	No	No	No	Yes	No	No
+Kylie Minogue	"In Your Eyes"	Yes	No	Yes	Yes	No	Yes	Yes	Yes	Yes
+Laith Al-Deen	"Alles an dir"	No	No	No	Yes	No	No	No	No	No
+Lena Philipsson	"Det gör ont"	No	No	No	No	No	No	No	Yes	No
+Lifehouse	"Hanging by a Moment"	No	Yes	No	No	No	No	No	No	No
+Lisa Nilsson	"Himlen runt hörnet"	No	No	No	No	No	No	No	Yes	No
+Loquillo y los Trogloditas	"Cadillac Solitario"	No	No	No	No	Yes	No	No	No	No
+Los Ronaldos	"Idiota"	No	No	No	No	Yes	No	No	No	No
+Magnus Uggla	"Värsta grymma tjejen"	No	No	No	No	No	No	No	Yes	No
+Manfred Mann	"Do Wah Diddy Diddy"	Yes	No	Yes	Yes	No	No	Yes	Yes	Yes
+Maria Mena	"My Lullaby"	No	No	No	No	No	No	Yes	No	No
+Marilyn Manson	"Personal Jesus"	Yes	No	No	No	No	No	No	No	Yes
+Martin Kesici	"Angel of Berlin"	No	No	No	Yes	No	No	No	No	No
+Mauro Scocco	"Sarah"	No	No	No	No	No	No	No	Yes	No
+McFly	"Obviously"	Yes	No	No	Yes	No	No	No	No	Yes
+Melendi	"Caminando Por La Vida"	No	No	No	No	Yes	No	No	No	No
+Melendi	"Con La Luna Llena"	No	No	No	No	Yes	No	No	No	No
+Melendi	"Hablando En Plata"	No	No	No	No	Yes	No	No	No	No
+Missy Higgins	"Scar"	No	No	Yes	No	No	No	No	No	No
+The Monroes	"Sunday People"	No	No	No	No	No	No	Yes	No	No
+My Chemical Romance	"Helena"	No	Yes	No	No	No	No	No	No	No
+Natasha Bedingfield	"These Words"	Yes	Yes	Yes	Yes	No	No	No	No	Yes
+Navajita Plateá	"Frío Sin Tí"	No	No	No	No	Yes	No	No	No	No
+Navajita Plateá	"Noches de Bohemia"	No	No	No	No	Yes	No	No	No	No
+Neffa	"Le Ore Piccole"	No	No	No	No	No	Yes	No	No	No
+Negrita	"Magnolia"	No	No	No	No	No	Yes	No	No	No
+Las Niñas	"Ojú"	No	No	No	No	Yes	No	No	No	No
+Opus X	"Loving You Girl"	No	No	No	No	No	No	Yes	No	No
+OutKast	"Roses"	Yes	No	Yes	Yes	No	Yes	No	Yes	Yes
+Panic! at the Disco	"I Write Sins Not Tragedies"	No	Yes	No	No	No	No	No	No	No
+Paola & Chiara	"A Modo Mio"	No	No	No	No	No	Yes	No	No	No
+Pastora Soler	"Dámelo Ya"	No	No	No	No	Yes	No	No	No	No
+Patrik Isaksson	"Hos dig är jag underbar"	No	No	No	No	No	No	No	Yes	No
+Philip & Sandra	"Sommerflørt"	No	No	No	No	No	No	Yes	No	No
+Pur	"Abenteuerland"	No	No	No	Yes	No	No	No	No	No
+Queco	"Tengo"	No	No	No	No	Yes	No	No	No	No
+The Raconteurs	"Steady, As She Goes"	No	Yes	No	No	No	No	No	No	No
+Reamonn	"Supergirl"	No	No	No	Yes	No	No	No	No	No
+Rihanna	"SOS"	No	Yes	No	No	No	No	No	No	No
+Robbie Williams	"Let Me Entertain You"	Yes	No	Yes	Yes	No	Yes	Yes	Yes	Yes
+Robbie Williams and Kylie Minogue	"Kids"	Yes	No	Yes	Yes	No	Yes	No	Yes	Yes
+Robyn	"Show Me Love"	No	No	No	No	No	No	No	Yes	No
+Ronan Keating feat. Yusuf Islam	"Father and Son"	Yes	No	Yes	Yes	No	Yes	No	No	Yes
+Rosenstolz	"Willkommen"	No	No	No	Yes	No	No	No	No	No
+Rune Rudberg	"Ut Mot Havet"	No	No	No	No	No	No	Yes	No	No
+Ryan Cabrera	"On The Way Down"	No	Yes	No	No	No	No	No	No	No
+Savage Garden	"To The Moon And Back"	No	No	Yes	No	No	No	No	No	No
+The September When	"Cries Like A Baby"	No	No	No	No	No	No	Yes	No	No
+Shannon Noll	"What About Me"	No	No	Yes	No	No	No	No	No	No
+Sister Sledge	"We Are Family"	Yes	No	Yes	Yes	No	No	Yes	No	Yes
+Snow Patrol	"Chasing Cars"	No	Yes	No	No	No	No	No	No	No
+La Sonrisa de Julia	"Llevo Tu Voz"	No	No	No	No	Yes	No	No	No	No
+Spazzys	"My Boyfriend's Back"	No	No	Yes	No	No	No	No	No	No
+Sputnik	"Lukk Opp Din Hjertedør"	No	No	No	No	No	No	Yes	No	No
+Steppenwolf	"Born To Be Wild"	Yes	No	Yes	Yes	No	No	Yes	Yes	Yes
+Subsonica	"Tutti I Miei Sbagli"	No	No	No	No	No	Yes	No	No	No
+Las Supremas de Móstoles	"Eres Un Enfermo"	No	No	No	No	Yes	No	No	No	No
+Tine	"Vil Ha Deg"	No	No	No	No	No	No	Yes	No	No
+Tiziano Ferro	"Sere Nere"	No	No	No	No	No	Yes	No	No	No
+Tom Jones	"It's Not Unusual"	Yes	No	Yes	Yes	Yes	No	Yes	Yes	Yes
+U2	"Vertigo"	No	Yes	No	No	No	No	No	No	No
+Uno Svenningsson	"Under ytan"	No	No	No	No	No	No	No	Yes	No
+Velvet	"Funzioni Primarie"	No	No	No	No	No	Yes	No	No	No
+Whitney Houston	"I Wanna Dance With Somebody (Who Loves Me)"	No	Yes	No	No	No	No	No	No	No
+Zucchero	"Baila"	No	No	No	No	No	Yes	No	No	No
+Zucchero	"Il Grande Baboomba"	No	No	No	No	No	Yes	No	No	No

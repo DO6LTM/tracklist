@@ -1,0 +1,131 @@
+Artist	Song Title	UK	AU	DE	ES	NL	PL	PT	DK
+2 Unlimited	"No Limit"	No	No	No	No	Yes	No	No	No
+2raumwohnung	"Besser Geht's Nicht"	No	No	Yes	No	No	No	No	No
+Adele	"Chasing Pavements"	Yes	No	Yes	No	Yes	No	No	No
+Álex Ubago	"Viajar Contigo"	No	No	No	Yes	No	No	No	No
+Alphabeat	"10.000 Nights Of Thunder"	No	No	No	No	No	No	No	Yes
+Alphabeat	"Fascination"	No	No	No	No	No	No	No	Yes
+Amy Winehouse	"Tears Dry On Their Own"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Andy y Lucas	"Son de Amores"	No	No	No	Yes	No	No	No	No
+Anjos	"Eu Estou Aqui (Yo sou aquél)"	No	No	No	No	No	No	Yes	No
+Antonio Orozco	"Dime Porqué"	No	No	No	Yes	No	No	No	No
+Aqua	"Dr. Jones"	No	No	No	No	No	No	No	Yes
+Ash	"Girl From Mars"	No	Yes	No	No	No	No	No	No
+Bliglad	"Dans For Satan"	No	No	No	No	No	No	No	Yes
+Bliglad	"Kærlighed Til Folket"	No	No	No	No	No	No	No	Yes
+Blondie	"The Tide Is High"	Yes	Yes	No	No	Yes	Yes	No	No
+Blur	"Girls & Boys"	Yes	Yes	No	Yes	No	Yes	Yes	Yes
+Booty Luv	"Shine"	Yes	No	No	No	No	No	No	No
+Boys	"Szalona"	No	No	No	No	No	Yes	No	No
+Brathanki	"Czerwone korale"	No	No	No	No	No	Yes	No	No
+Burhan G	"Who Is He?"	No	No	No	No	No	No	No	Yes
+El Canto del Loco	"Zapatillas"	No	No	No	Yes	No	No	No	No
+moi Caprice	"To the Lighthouse"	No	No	No	No	No	No	No	Yes
+Celtas Cortos	"Cuéntame Un Cuento"	No	No	No	Yes	No	No	No	No
+Chenoa	"Todo Irá Bien"	No	No	No	Yes	No	No	No	No
+Chesney Hawkes	"The One And Only"	Yes	No	Yes	No	Yes	No	No	Yes
+Chumbawamba	"Tubthumping"	No	No	Yes	No	No	No	No	No
+Clã	"Tira A Teima"	No	No	No	No	No	No	Yes	No
+Coti	"Canción de Adios"	No	No	No	Yes	No	No	No	No
+Culcha Candela	"Hamma"	No	No	Yes	No	No	No	No	No
+Da Weasel	"Dúia"	No	No	No	No	No	No	Yes	No
+David Bowie	"Let's Dance"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+David de María	"Precisamente Ahora"	No	No	No	Yes	No	No	No	No
+David Fonseca	"Superstars II"	No	No	No	No	No	No	Yes	No
+Diana Ross	"I'm Coming Out"	Yes	Yes	Yes	No	Yes	Yes	No	Yes
+Di-Rect	"Cool With You"	No	No	No	No	Yes	No	No	No
+Dirty Pretty Things	"Bang Bang You're Dead"	Yes	No	No	No	No	No	No	No
+Dodgy	"Good Enough"	Yes	No	Yes	Yes	No	No	Yes	No
+Dolly Dots	"Radio"	No	No	No	No	Yes	No	No	No
+Donna Summer	"She Works Hard for the Money"	No	No	Yes	No	No	No	No	No
+Edyta Górniak	"Jestem kobieta"	No	No	No	No	No	Yes	No	No
+Elton John	"I'm Still Standing"	Yes	Yes	Yes	No	Yes	Yes	No	Yes
+Evermore	"Light Surrounding You"	No	Yes	No	No	No	No	No	No
+Faith No More	"Easy"	No	No	Yes	No	No	No	No	No
+Fito y Fitipaldis	"Me Equivocaría Otra Vez"	No	No	No	Yes	No	No	No	No
+Five Star	"System Addict"	Yes	No	No	No	No	No	No	No
+The Flames	"Everytime"	No	No	Yes	No	No	No	No	No
+Formacja Niezywych Schabuff	"Lato"	No	No	No	No	No	Yes	No	No
+Frans Bauer	"Heb Je Even Voor Mij?"	No	No	No	No	Yes	No	No	No
+George Baker Selection	"Little Green Bag"	No	No	No	No	Yes	No	No	No
+The Gift	"Ok! Do You Want Something Simple?"	No	No	No	No	No	No	Yes	No
+The Gift	"Question Of Love"	No	No	No	No	No	No	Yes	No
+Girls Aloud	"Call The Shots"	Yes	Yes	No	No	Yes	No	No	No
+Golden Earring	"When The Lady Smiles"	No	No	No	No	Yes	No	No	No
+Gomo	"Feeling Alive"	No	No	No	No	No	No	Yes	No
+Gordon	"Ik Bel Je Zomaar Even Op"	No	No	No	No	Yes	No	No	No
+Guus Meeuwis & Vagant	"Het is een nacht (live)"	No	No	No	No	Yes	No	No	No
+Hombres G	"Chico, Tienes Que Cuidarte"	No	No	No	Yes	No	No	No	No
+Humanos	"Maria Albertina"	No	No	No	No	No	No	Yes	No
+Ich + Ich	"Vom Selben Stern"	No	No	Yes	No	No	No	No	No
+Iguana Tango	"Extraño"	No	No	No	Yes	No	No	No	No
+Infernal	"From Paris to Berlin"	No	No	No	No	No	No	No	Yes
+Jack Radics	"No Matter"	No	No	Yes	No	No	No	No	No
+Jannes	"Ga Maar Weg"	No	No	No	No	Yes	No	No	No
+Jaula de Grillos	"Adiós"	No	No	No	Yes	No	No	No	No
+Joe Cocker	"Summer in the City"	No	No	Yes	No	No	No	No	No
+Juanes	"Me Enamora"	No	No	No	Yes	No	No	No	No
+Just 5	"Kolorowe sny"	No	No	No	No	No	Yes	No	No
+K.A.S.A	"Maczo"	No	No	No	No	No	Yes	No	No
+K.A.S.A	"To wlasnie lato"	No	No	No	No	No	Yes	No	No
+Kaiser Chiefs	"I Predict A Riot"	Yes	No	Yes	Yes	Yes	No	No	No
+Kasia Cerekwicka	"S.O.S"	No	No	No	No	No	Yes	No	No
+Kasia Kowalska	"Cos optymistycznego"	No	No	No	No	No	Yes	No	No
+Klaxons	"It's Not Over Yet"	Yes	Yes	No	Yes	No	No	No	No
+Kombi	"Pokolenie"	No	No	No	No	No	Yes	No	No
+Kombi	"Sen sie spelni"	No	No	No	No	No	Yes	No	No
+Krzysztof Krawczyk	"Bo jestes Ty"	No	No	No	No	No	Yes	No	No
+KT Tunstall	"Suddenly I See"	Yes	Yes	Yes	No	No	No	Yes	Yes
+Lou Bega	"Mambo No. 5"	Yes	Yes	No	Yes	Yes	Yes	Yes	No
+Lzy	"Agnieszka"	No	No	No	No	No	Yes	No	No
+Lzy	"Narcyz sie nazywam"	No	No	No	No	No	Yes	No	No
+Madness	"House Of Fun"	Yes	Yes	No	No	No	No	Yes	No
+Mafalda Veiga & João Pedro Pais	"Tatuagens"	No	No	No	No	No	No	Yes	No
+Magtens Korridorer	"Nordhavn Station"	No	No	No	No	No	No	No	Yes
+Mel & Kim	"Respectable"	Yes	Yes	No	No	Yes	No	Yes	Yes
+Melendi	"Con Solo Una Sonrisa"	No	No	No	Yes	No	No	No	No
+Mika	"Big Girl (You Are Beautiful)"	Yes	Yes	Yes	No	Yes	No	Yes	No
+Mundo Secreto	"Põe Aquele Som"	No	No	No	No	No	No	Yes	No
+Myslovitz	"Dlugosc dzwieku samotnosci"	No	No	No	No	No	Yes	No	No
+Natasja feat. Pharfar	"Ildebrand I Byen"	No	No	No	No	No	No	No	Yes
+Natasja	"Op med Ho'det"	No	No	No	No	No	No	No	Yes
+Nena Daconte	"Marta"	No	No	No	Yes	No	No	No	No
+Norbi	"Kobiety sa gorace"	No	No	No	No	No	Yes	No	No
+Norbi feat. Krzysztof Krawczyk	"Piekny dzien"	No	No	No	No	No	Yes	No	No
+Ohrbooten	"Man Lebt Nur Einmal"	No	No	Yes	No	No	No	No	No
+Operator Please	"Get What You Want"	No	Yes	No	No	No	No	No	No
+La Oreja de Van Gogh	"En Mi Lado del Sofá"	No	No	No	Yes	No	No	No	No
+Pastora Soler	"Corazón Congelado"	No	No	No	Yes	No	No	No	No
+Pedro Abrunhosa e Bandemónio	"Não Posso +"	No	No	No	No	No	No	Yes	No
+Peter André	"Mysterious Girl"	Yes	Yes	Yes	No	Yes	Yes	No	Yes
+Plain White T's	"Hey There Delilah"	Yes	Yes	Yes	Yes	No	No	Yes	No
+Pulp	"Disco 2000"	Yes	Yes	Yes	No	No	No	Yes	Yes
+Razorlight	"In The Morning"	Yes	No	No	No	No	No	No	Yes
+Reni Jusis	"Zakrecona"	No	No	No	No	No	Yes	No	No
+Republica	"Ready To Go"	No	Yes	No	No	No	No	No	No
+Ricardo Azevedo	"Pequeno T2"	No	No	No	No	No	No	Yes	No
+Ricki Lee	"Can't Touch It"	No	Yes	No	No	No	No	No	No
+Rihanna	"Umbrella"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Rollo & King	"Der står et billed' af dig på mit bord"	No	No	No	No	No	No	No	Yes
+Roger Cicero	"Die Liste"	No	No	Yes	No	No	No	No	No
+Rooney	"When Did Your Heart Go Missing?"	No	No	Yes	No	No	No	No	No
+Seguridad Social	"Me Siento Bien"	No	No	No	Yes	No	No	No	No
+Shannon Noll	"Loud"	No	Yes	No	No	No	No	No	No
+Spleen Utd	"Spleen United"	No	No	No	No	No	No	No	Yes
+El Sueño de Morfeo	"Demasiado Tarde"	No	No	No	Yes	No	No	No	No
+Sugababes	"Red Dress"	Yes	Yes	No	No	Yes	Yes	Yes	Yes
+T.T.	"Dança Este Som"	No	No	No	No	No	No	Yes	No
+Tam Tam Go	"Atrapados En La Red"	No	No	No	Yes	No	No	No	No
+Texas	"Summer Son"	Yes	Yes	Yes	Yes	Yes	No	Yes	No
+Thirsty Merc	"20 Good Reasons"	No	Yes	No	No	No	No	No	No
+Thomas Buttenschön	"Fantastiske Mandag"	No	No	No	No	No	No	No	Yes
+Tiago Bettencourt & Mantha	"Canção Simples"	No	No	No	No	No	No	Yes	No
+Tokio Hotel	"An Deiner Seite (Ich Bin Da)"	No	No	Yes	No	No	No	No	No
+Toto	"Hold The Line"	Yes	Yes	Yes	No	Yes	No	No	Yes
+Troels Gustavsen	"Times (Blue Signs)"	No	No	No	No	No	No	No	Yes
+Varius Manx	"Orla Cien"	No	No	No	No	No	Yes	No	No
+The Veronicas	"Hook Me Up"	No	Yes	No	No	No	Yes	No	No
+Wham!	"Club Tropicana"	Yes	Yes	Yes	No	Yes	Yes	No	No
+Wolter Kroes	"Ik Heb De Hele Nacht Liggen Dromen"	No	No	No	No	Yes	No	No	No
+Xutos e Pontapés	"Circo De Feras"	No	No	No	No	No	No	Yes	No
+Yazz	"The Only Way Is Up"	Yes	Yes	No	No	Yes	No	Yes	Yes

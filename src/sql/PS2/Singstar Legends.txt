@@ -1,0 +1,95 @@
+Artist	Song Title	UK	NA	AU	DE	DK	ES	FI	FR	IT
+883	"Una canzone d'amore"	No	No	No	No	No	No	No	No	Yes
+Aki Sirkesalo	"Naispaholainen"	No	No	No	No	No	No	Yes	No	No
+The Angels	"No Secrets"	No	No	Yes	No	No	No	No	No	No
+Anssi Kela	"Milla"	No	No	No	No	No	No	Yes	No	No
+Aretha Franklin	"Respect"	Yes	No	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Barry White	"You're the First, the Last, My Everything"	Yes	Yes	No	Yes	Yes	No	No	Yes	Yes
+The Beach Boys	"Surfin' U.S.A."	No	No	No	No	No	Yes	No	No	No
+Biz Markie	"Just a Friend"	No	Yes	No	No	No	No	No	No	No
+Blå Øjne	"Fiskene I Havet"	No	No	No	No	Yes	No	No	No	No
+Black Sabbath	"Paranoid"	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	No
+Blur	"Parklife"	Yes	No	No	No	No	Yes	No	Yes	No
+Bonnie Tyler	"Total Eclipse of the Heart"	No	Yes	No	No	No	No	No	No	No
+Brødrene Olsen	"Smuk Som Et Stjerneskud"	No	No	No	No	Yes	No	No	No	No
+Carmen Consoli	"Confusa e felice"	No	No	No	No	No	No	No	No	Yes
+Carmen Consoli	"Parole di burro"	No	No	No	No	No	No	No	No	Yes
+Danser Med Drenge	"Hvorlænge Vil Du Ydmyge Dig?"	No	No	No	No	Yes	No	No	No	No
+David Bowie	"Life on Mars?"	Yes	Yes	Yes	Yes	No	Yes	No	Yes	Yes
+Depeche Mode	"Enjoy the Silence"	Yes	No	No	Yes	No	Yes	Yes	Yes	Yes
+Det Brune Punktum	"Jeg Vil I Seng Med De Fleste"	No	No	No	No	Yes	No	No	No	No
+Don Huonot	"Riidankylväjä"	No	No	No	No	No	No	Yes	No	No
+Dusty Springfield	"Son of a Preacher Man"	Yes	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes
+The Easybeats	"Friday on My Mind"	No	No	Yes	No	No	No	No	No	No
+Ella Fitzgerald and Louis Armstrong	"Let's Call the Whole Thing Off"	Yes	Yes	No	Yes	No	Yes	No	Yes	No
+Elton John	"I'm Still Standing"	No	Yes	No	No	No	No	No	No	No
+Elton John	"Rocket Man"	Yes	No	Yes	Yes	No	Yes	No	Yes	Yes
+Elvis Presley	"Blue Suede Shoes"	Yes	Yes	Yes	Yes	Yes	Yes	No	Yes	Yes
+Eppu Normaali	"Tahroja paperilla"	No	No	No	No	No	No	Yes	No	No
+Grateful Dead	"Touch of Grey"	No	Yes	No	No	No	No	No	No	No
+Hélène Segara	"Il y a trop de gens qui t'aiment"	No	No	No	No	No	No	No	Yes	No
+HIM	"Right Here in My Arms"	No	No	No	No	No	No	Yes	No	No
+Indica	"Ikuinen virta"	No	No	No	No	No	No	Yes	No	No
+J. Karjalainen ja mustat lasit	"Doris"	No	No	No	No	No	No	Yes	No	No
+Jackie Wilson	"Reet Petite"	Yes	No	Yes	Yes	No	Yes	No	Yes	Yes
+The Jackson 5	"I Want You Back"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+James Brown	"I Got You (I Feel Good)"	No	Yes	No	No	No	No	No	No	No
+Jimmy Barnes	"No Second Prize"	No	No	Yes	No	No	No	No	No	No
+Jimmy Barnes	"Working Class Man"	No	No	Yes	No	No	No	No	No	No
+John Farnham	"You're the Voice"	No	No	Yes	No	No	No	No	No	No
+John Lennon	"Imagine"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+John Mogensen	"Der Er Noget Galt i Danmark"	No	No	No	No	Yes	No	No	No	No
+John Paul Young	"Love Is in the Air"	No	No	Yes	No	No	No	No	No	No
+Johnny Cash	"Ring of Fire"	Yes	Yes	Yes	Yes	Yes	Yes	No	Yes	No
+Johnny Deluxe feat. Anna Nordell	"Drømmer Jeg?"	No	No	No	No	Yes	No	No	No	No
+Jovanotti	"Bella"	No	No	No	No	No	No	No	No	Yes
+Jovanotti	"Ragazzo Fortunato"	No	No	No	No	No	No	No	No	Yes
+Joy Division	"Love Will Tear Us Apart"	No	Yes	No	No	No	No	No	No	No
+Karen Busck & Erann DD	"Hjertet Ser"	No	No	No	No	Yes	No	No	No	No
+Lars Lilholt	"Kald Det Kærlighed"	No	No	No	No	Yes	No	No	No	No
+Ligabue	"A che ora è la fine del mondo?"	No	No	No	No	No	No	No	No	Yes
+Lordi	"Hard Rock Hallelujah"	No	No	No	No	No	No	Yes	No	No
+Lynyrd Skynyrd	"Sweet Home Alabama"	Yes	No	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Madonna	"Papa Don't Preach"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Marvin Gaye	"I Heard It Through the Grapevine"	Yes	No	Yes	Yes	Yes	Yes	No	Yes	Yes
+Marvin Gaye	"What's Going On"	No	Yes	No	No	No	No	No	No	No
+Michael McDonald	"I Keep Forgettin' (Every Time You're Near)"	No	Yes	No	No	No	No	No	No	No
+Midnight Oil	"Beds Are Burning"	No	No	Yes	No	No	No	No	No	No
+The Monkees	"Daydream Believer"	Yes	Yes	Yes	Yes	No	Yes	No	Yes	No
+Neljä Ruusua	"Juppihippipunkkari"	No	No	No	No	No	No	Yes	No	No
+Nirvana	"Smells Like Teen Spirit"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Patsy Cline	"Crazy"	Yes	Yes	No	No	No	Yes	No	Yes	No
+Pelle Miljoona	"Moottoritie on kuuma"	No	No	No	No	No	No	Yes	No	No
+Pet Shop Boys	"Always on My Mind"	Yes	No	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+PMMP	"Pikkuveli"	No	No	No	No	No	No	Yes	No	No
+The Police	"Roxanne"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Pooh	"Uomini soli"	No	No	No	No	No	No	No	No	Yes
+Popeda	"Pitkä kuuma kesä"	No	No	No	No	No	No	Yes	No	No
+The Rasmus	"In the Shadows"	No	No	No	No	No	No	Yes	No	No
+Rasmus Nøhr	"Sommer I Europa"	No	No	No	No	Yes	No	No	No	No
+Ray Charles	"Hit the Road Jack"	No	Yes	No	No	No	No	No	No	No
+The Righteous Brothers	"Unchained Melody"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	No	No
+The Rolling Stones	"Sympathy for the Devil"	Yes	Yes	No	Yes	Yes	Yes	No	Yes	Yes
+Roxy Music	"Love Is the Drug"	Yes	No	No	No	No	Yes	No	Yes	No
+Sam Cooke	"Wonderful World"	Yes	Yes	Yes	Yes	No	Yes	Yes	Yes	Yes
+Samuli Edelmann & Sani	"Tuhat yötä"	No	No	No	No	No	No	Yes	No	No
+Sanne Salomonsen	"Everybody's Eyes on You"	No	No	No	No	Yes	No	No	No	No
+Silverchair	"Tomorrow"	No	No	Yes	No	No	No	No	No	No
+The Smiths	"This Charming Man"	Yes	Yes	No	No	No	Yes	No	Yes	No
+Söhne Mannheims	"Geh Davon Aus"	No	No	No	Yes	No	No	No	No	No
+Suurlähettiläät	"Elokuun 11."	No	No	No	No	No	No	Yes	No	No
+Swan Lee	"I Don't Mind"	No	No	No	No	Yes	No	No	No	No
+Take That	"Back for Good"	No	No	No	Yes	No	No	No	No	No
+Tina Turner	"What's Love Got to Do with It?"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
+Tom Jones	"What's New Pussycat?"	No	Yes	No	No	No	No	No	No	No
+Tøsedrengene	"Si' Du Kan Li' Mig"	No	No	No	No	Yes	No	No	No	No
+Die Toten Hosen	"1000 Gute Gründe"	No	No	No	Yes	No	No	No	No	No
+Tue West	"Hun Er Fri (Kvinden Og Lottokuglerne)"	No	No	No	No	Yes	No	No	No	No
+TV-2	"De Første Kærester På Månen"	No	No	No	No	Yes	No	No	No	No
+U2	"Vertigo"	Yes	No	Yes	Yes	No	Yes	No	Yes	Yes
+Whitney Houston	"The Greatest Love of All"	Yes	No	Yes	Yes	No	Yes	Yes	Yes	Yes
+Whitney Houston	"I'm Your Baby Tonight"	No	Yes	No	No	No	No	No	No	No
+Xavier Naidoo	"Wo Willst Du Hin?"	No	No	No	Yes	No	No	No	No	No
+Yö	"Joutsenlaulu"	No	No	No	No	No	No	Yes	No	No
+Zucchero	"Con le mani"	No	No	No	No	No	No	No	No	Yes
+Zucchero	"Diamante"	No	No	No	No	No	No	No	No	Yes

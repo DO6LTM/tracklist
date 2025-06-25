@@ -1,0 +1,21 @@
+Artist	Song Title	UK
+101 Dalmatians	"Cruella De Vil"	Yes
+Aladdin	"A Whole New World"	Yes
+The Aristocats	"Ev'rybody Wants To Be A Cat"	Yes
+Beauty And The Beast	"Beauty And The Beast"	Yes
+Cinderella	"Bibbidi-Bobbidi-Boo"	Yes
+Cinderella	"The Work Song"	Yes
+The Jungle Book	"Bare Necessities"	Yes
+The Jungle Book	"I Wanna Be Like You"	Yes
+Lady and the Tramp	"He's A Tramp"	Yes
+The Lion King	"I Just Can't Wait To Be King"	Yes
+The Lion King	"The Circle Of Life"	Yes
+The Little Mermaid	"Kiss The Girl"	Yes
+The Little Mermaid	"Under The Sea"	Yes
+Peter Pan	"Following The Leader"	Yes
+Peter Pan	"You Can Fly! You Can Fly! You Can Fly!"	Yes
+Sleeping Beauty	"I Wonder"	Yes
+Sleeping Beauty	"Once Upon A Dream"	Yes
+Tarzan	"Son Of Man"	Yes
+Toy Story	"You've Got A Friend In Me"	Yes
+Winnie The Pooh	"Winnie The Pooh"	Yes
