@@ -31,7 +31,14 @@
     <v-dialog v-model="showDialog" width="500">
       <v-card>
         <v-card-title>
-          <v-label class="font-weight-bold text-black">{{ title }}</v-label> - <v-label color="grey lighten-1">{{ artist }}</v-label>
+          <v-row>
+            <v-col cols="10">
+              <v-label class="font-weight-bold text-black">{{ title }}</v-label> - <v-label color="grey lighten-1">{{ artist }}</v-label>
+            </v-col>
+            <v-col cols="2" class="text-end">
+              <a :href="url" target="_blank" style="color: black;"><v-icon><i class="fa-brands fa-spotify"></i></v-icon></a>
+            </v-col>
+          </v-row>
         </v-card-title>
         <v-card-text>
           <v-row class="font-weight-bold text-black">
