@@ -15,7 +15,7 @@
     <v-row style="align-self: start; display: flex; flex-direction: column; align-items: flex-start; max-width: 90%" v-else>
       <v-col v-for="card in cards" :key="card.id" cols="1" style="padding: 0;">
         <v-lazy :min-height="200" :options="{'threshold':0.5}" transition="fade-transition">
-          <CardSmall
+          <Card
             :id="card.id"
             :title="card.title"
             :artist="card.artist"
@@ -32,12 +32,12 @@
 </template>
 
 <script>
-import CardSmall from "@/components/cards/CardSmall.vue";
+import Card from "@/components/Card.vue";
 import CardLarge from "@/components/cards/CardLarge.vue";
 import { getDatabase } from "@/plugins/database.js";
 
 export default {
-  components: {CardLarge, CardSmall},
+  components: {Card},
   data() {
     return {
       cards: [],
