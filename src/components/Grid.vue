@@ -2,19 +2,7 @@
   <v-container class="fill-height">
     <v-row v-if="$vuetify.display.smAndUp">
       <v-col v-for="card in cards" :key="card.id" cols="4">
-        <CardLarge
-          :id="card.id"
-          :title="card.title"
-          :interpret="card.interpret"
-          :year="card.year"
-          :genres="card.genres"
-          :games="card.games"
-        />
-      </v-col>
-    </v-row>
-    <v-row style="align-self: start; display: flex; flex-direction: column; align-items: flex-start; max-width: 90%" v-else>
-      <v-col v-for="card in cards" :key="card.id" cols="1" style="padding: 0;">
-        <v-lazy :min-height="200" :options="{'threshold':0.5}" transition="fade-transition">
+        <v-lazy :min-height="500" :options="{'threshold':0.1}" transition="fade-transition">
           <Card
             :id="card.id"
             :title="card.title"
@@ -24,6 +12,24 @@
             :duration="card.duration"
             :image_url="card.image_url"
             :url="card.url"
+            :popularity="card.popularity"
+          />
+        </v-lazy>
+      </v-col>
+    </v-row>
+    <v-row style="align-self: start; display: flex; flex-direction: column; align-items: flex-start; max-width: 90%" v-else>
+      <v-col v-for="card in cards" :key="card.id" cols="1" style="padding: 0;">
+        <v-lazy :min-height="200" :options="{'threshold':0.1}" transition="fade-transition">
+          <Card
+            :id="card.id"
+            :title="card.title"
+            :artist="card.artist"
+            :album="card.album"
+            :released="card.released"
+            :duration="card.duration"
+            :image_url="card.image_url"
+            :url="card.url"
+            :popularity="card.popularity"
           />
         </v-lazy>
       </v-col>
@@ -33,7 +39,6 @@
 
 <script>
 import Card from "@/components/Card.vue";
-import CardLarge from "@/components/cards/CardLarge.vue";
 import { getDatabase } from "@/plugins/database.js";
 
 export default {
@@ -64,7 +69,7 @@ export default {
       search = search.trim();
       const wildcardSearch = "%" + search + "%";
 
-      const query = "SELECT DISTINCT t.id, t.title, t.artist, t.album, t.released, t.duration, t.image_url, t.url " +
+      const query = "SELECT DISTINCT t.id, t.title, t.artist, t.album, t.released, t.duration, t.image_url, t.url, t.popularity " +
         "FROM track t " +
         "INNER JOIN track_game tg ON tg.track_id = t.id " +
         "INNER JOIN game g ON g.id = tg.game_id " +
@@ -72,7 +77,7 @@ export default {
         "INNER JOIN game_title gt ON gt.id = gr.game_title_id " +
         "WHERE t.title LIKE ? or t.artist LIKE ? or t.album LIKE ? or CAST(t.released as TEXT) = ? or gt.title LIKE ? " +
         "GROUP BY t.artist, t.title " +
-        "ORDER BY t.artist, t.title";
+        "ORDER BY t.popularity DESC, t.artist ASC, t.title ASC";
 
       const stmt = getDatabase().prepare(query);
       stmt.bind([wildcardSearch, wildcardSearch, wildcardSearch, search, wildcardSearch]);
@@ -80,7 +85,7 @@ export default {
         const json = stmt.getAsObject();
 
         const card = {
-          id: json.id, title: json.title, artist: json.artist, album: json.album, released: json.released, duration: json.duration, image_url: json.image_url, url: json.url
+          id: json.id, title: json.title, artist: json.artist, album: json.album, released: json.released, duration: json.duration, image_url: json.image_url, url: json.url, popularity: json.popularity
         };
 
         this.cards.push(card);

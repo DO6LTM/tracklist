@@ -1,14 +1,14 @@
 <template>
-  <v-card @click="showDialog = true" width="92%" style="position: absolute;">
-    <div class="w-33" style="float: left; height: 80%; padding: 8px;">
+  <v-card @click="showDialog = true" width="92%" class="card">
+    <div class="w-33 image">
       <v-img aspect-ratio="1" :src="image_url">
       </v-img>
     </div>
-    <div class="w-66" style="float: left;">
+    <div class="w-66 text">
       <v-card-title>
         <v-row>
           <v-col cols="10">
-            {{ title }}
+           <div style="overflow: hidden; text-overflow: ellipsis;">{{ title }}</div>
           </v-col>
           <v-col cols="2" class="text-end">
             <v-icon color="grey lighten-1">mdi-information-outline</v-icon>
@@ -32,8 +32,8 @@
       <v-card>
         <v-card-title>
           <v-row>
-            <v-col cols="10">
-              <v-label class="font-weight-bold text-black">{{ title }}</v-label> - <v-label color="grey lighten-1">{{ artist }}</v-label>
+            <v-col cols="10" style="display: flex; flex-wrap: wrap;">
+              <v-label class="font-weight-bold text-black">{{ title }}</v-label><span style="margin-left: 0.2em; margin-right: 0.2em;">-</span><v-label color="grey lighten-1">{{ artist }}</v-label>
             </v-col>
             <v-col cols="2" class="text-end">
               <a :href="url" target="_blank" style="color: black;"><v-icon><i class="fa-brands fa-spotify"></i></v-icon></a>
@@ -71,7 +71,8 @@ export default {
     released: Number,
     duration: Number,
     image_url: String,
-    url: String
+    url: String,
+    popularity: Number
   },
   data() {
     return {
@@ -114,3 +115,20 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+.card {
+  position: absolute;
+  width: 92%;
+}
+
+.image {
+  float: left;
+  height: 100%;
+  padding: 8px;
+}
+
+.text {
+  float: left;
+}
+</style>
