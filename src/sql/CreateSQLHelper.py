@@ -65,7 +65,7 @@ def search_track(title, artist=None):
     sp = get_spotify_client()
     query = f'track:"{title}"'
     if artist:
-        query += f' artist:"{artist}"'
+        query += f' artist:"{artist.split(" feat")[0].split(" and ")[0].split("(")[0].strip()}"'
 
     results = sp.search(q=query, type="track", limit=1)
     items = results.get("tracks", {}).get("items", [])
@@ -78,11 +78,12 @@ def interpret_track(track_obj):
     result = {
         "name": track_obj["name"],
         "artists": track_obj["artists"][0]["name"],
-        "album": track_obj["album"]["name"],
+        "album": track_obj["album"]["name"].replace("\"", ""),
         "released": track_obj["album"]["release_date"].split("-")[0],
         "duration": track_obj["duration_ms"] // 1000,
         "spotify_url": track_obj["external_urls"]["spotify"],
-        "album_image_url": album_image_url
+        "album_image_url": album_image_url,
+        "popularity": track_obj["popularity"]
     }
 
     return result
@@ -116,7 +117,7 @@ with open(f"InitScript.sql", "w", encoding="utf-8") as out_file:
                         artist = track["Artist"]
                         spotify_track = search_track(title, artist)
                         if not spotify_track:
-                            print("No matching track found:", title, artist)
+                            print("No matching track found:", title, artist, game_file)
                             out_file.write(f'INSERT INTO track (id, title, artist) VALUES ({track_id}, "{title}", "{artist}");\n')
                         else:
                             result = interpret_track(spotify_track)
@@ -125,7 +126,8 @@ with open(f"InitScript.sql", "w", encoding="utf-8") as out_file:
                             duration = result["duration"]
                             image = result["album_image_url"]
                             spotify_url = result["spotify_url"]
-                            out_file.write(f'INSERT INTO track (id, title, artist, album, released, duration, image_url, url) VALUES ({track_id}, "{title}", "{artist}", "{album}", "{released}", "{duration}", "{image}", "{spotify_url}");\n')
+                            popularity = result["popularity"]
+                            out_file.write(f'INSERT INTO track (id, title, artist, album, released, duration, image_url, url, popularity) VALUES ({track_id}, "{title}", "{artist}", "{album}", {released}, {duration}, "{image}", "{spotify_url}", {popularity});\n')
 
                         for region in [r for r in track.keys() if r in LANGUAGE_MAP.keys()]:
                             if track[region] == "Yes":

@@ -70,7 +70,7 @@ Koos Alberts	"Zijn Het Je Ogen"	No	No	No	No	No	Yes	No	No
 La Compagnie Créole	"Le Bal Masqué"	No	No	No	Yes	No	No	No	No
 Lady Pank	"Kryzysowa Narzeczona"	No	No	No	No	No	No	Yes	No
 Laroche Valmont	"T'as Le Look Coco"	No	No	No	Yes	No	No	No	No
-Limahl	"Neverending Story"	No	No	Yes	No	No	No	No	No
+Limahl	"Never Ending Story"	No	No	Yes	No	No	No	No	No
 Lio	"Les Brunes"	No	No	No	Yes	No	No	No	No
 Litfiba	"El Diablo"	No	No	No	No	Yes	No	No	No
 Loredana Bertè	"Non sono una signora"	No	No	No	No	Yes	No	No	No

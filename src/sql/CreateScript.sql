@@ -40,9 +40,10 @@ CREATE TABLE track (
     artist TEXT NOT NULL,
     album TEXT,
     released INTEGER,
-    duration TEXT,
+    duration INTEGER,
     image_url TEXT,
-    url TEXT
+    url TEXT,
+    popularity INTEGER
 );
 
 CREATE TABLE track_game (

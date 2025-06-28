@@ -15,7 +15,7 @@ Bowling For Soup	"1985"	Yes	No	Yes	Yes	No	No	No	No
 The Bravery	"An Honest Mistake"	Yes	No	No	No	No	No	Yes	No
 El Canto del Loco	"Besos"	No	No	No	No	Yes	No	No	No
 The Cardigans	"My Favourite Game"	Yes	No	Yes	No	No	No	Yes	Yes
-Christina Stürmer	"Ich Lebe 2005"	No	No	No	Yes	No	No	No	No
+Christina Stürmer	"Ich Lebe"	No	No	No	Yes	No	No	No	No
 The Church	"Unguarded Moment"	No	No	Yes	No	No	No	No	No
 Coldplay	"Speed of Sound"	Yes	Yes	Yes	Yes	Yes	Yes	Yes	Yes
 Cristina y los Subterráneos	"Voy En Un Coche"	No	No	No	No	Yes	No	No	No
