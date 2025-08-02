@@ -94,11 +94,11 @@ export default {
         "INNER JOIN region r ON gr.region_id = r.id " +
         "INNER JOIN game_title gt ON gt.id = gr.game_title_id " +
         "INNER JOIN console c ON c.id = g.console_id " +
-        "WHERE t.title = ? and t.artist = ? " +
-        "GROUP BY gt.title";
+        "WHERE t.title LIKE ? and (SUBSTR(t.artist, 1, INSTR(t.artist, ' ') - 1) LIKE ? or t.artist LIKE ?)" +
+        "GROUP BY upper(gt.title)";
 
       const stmt = getDatabase().prepare(query);
-      stmt.bind([this.title, this.artist]);
+      stmt.bind([this.title, this.artist.split(" ")[0], this.artist]);
       while(stmt.step()) {
         const json = stmt.getAsObject();
         const game = {

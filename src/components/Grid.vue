@@ -90,7 +90,7 @@ export default {
         "INNER JOIN game_region gr ON gr.game_id = g.id " +
         "INNER JOIN game_title gt ON gt.id = gr.game_title_id " +
         "WHERE t.title LIKE ? or t.artist LIKE ? or t.album LIKE ? or CAST(t.released as TEXT) = ? or gt.title LIKE ? " +
-        "GROUP BY t.artist, t.title ";
+        "GROUP BY upper(t.title), upper(SUBSTR(t.artist, 1, INSTR(t.artist, ' ') - 1)) ";
 
       switch (this.sort) {
         case 0:
