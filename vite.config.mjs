@@ -17,7 +17,14 @@ export default defineConfig({
     }
   },
   build: {
-    target: 'esnext'
+    target: 'esnext',
+    rollupOptions: {
+      output: {
+        entryFileNames: `assets/index.js`,
+        chunkFileNames: `assets/index-chunk.js`,
+        assetFileNames: `assets/[name].[ext]`,
+      }
+    },
   },
   plugins: [
     VueRouter(),
