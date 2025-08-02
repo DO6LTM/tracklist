@@ -1,10 +1,10 @@
 import initSqlJs from 'sql.js';
 
 const sqlPromise = initSqlJs({
-  locateFile: file => `/node_modules/sql.js/dist/${file}`
+  locateFile: file => `https://sql.js.org/dist/${file}`
 });
 
-const dataPromise = fetch("/src/sql/tracklist.sqlite").then(res => res.arrayBuffer());
+const dataPromise = fetch("/tracklist.sqlite").then(res => res.arrayBuffer());
 
 const [SQL, buf] = await Promise.all([sqlPromise, dataPromise]);
 
