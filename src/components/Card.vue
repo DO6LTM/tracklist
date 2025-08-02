@@ -1,8 +1,7 @@
 <template>
   <v-card @click="showDialog = true" width="92%" class="card">
     <div class="w-33 image">
-      <v-img max-height="inherit" aspect-ratio="1" :src="image_url">
-      </v-img>
+      <v-img rounded cover max-height="inherit" aspect-ratio="1" :src="image_url" />
     </div>
     <div class="w-66 text">
       <v-card-title>
