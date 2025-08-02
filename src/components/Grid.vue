@@ -1,9 +1,10 @@
 <template>
-  <v-container class="fill-height">
+  <v-container class="fill-height fill-width">
     <v-row v-if="$vuetify.display.mdAndUp">
       <v-col v-for="card in cards" :key="card.id" cols="4">
-        <v-lazy :min-height="500" :options="{'threshold':0.1}" transition="fade-transition">
+        <v-lazy min-height="12em" :options="{'threshold':0.1}" transition="fade-transition">
           <Card
+            class="desktop"
             :id="card.id"
             :title="card.title"
             :artist="card.artist"

@@ -137,4 +137,8 @@ export default {
   display: inline-block;
   white-space: nowrap;
 }
+
+.desktop {
+  position: relative;
+}
 </style>

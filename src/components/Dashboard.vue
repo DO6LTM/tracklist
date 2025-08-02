@@ -1,5 +1,5 @@
 <template>
-  <v-container class="fill-height">
+  <v-container class="fill-width fill-height">
     <Header @search="this.updateSearch" @sort="this.updateSortValue" @sortDesc="this.updateSortDesc" />
     <Grid :searchValue="searchValue" :sort="sortValue" :sortDesc="sortDesc"/>
   </v-container>
@@ -31,3 +31,9 @@ export default {
   },
 }
 </script>
+
+<style>
+.fill-width {
+  max-width: 100% !important;
+}
+</style>
