@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "build:github": "vite build --base=\"https://do6ltm.github.io/tracklist/\"",
+    "build:github": "vite build --base=\"/tracklist/\"",
     "preview": "vite preview",
     "lint": "eslint . --fix"
   },
