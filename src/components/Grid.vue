@@ -1,6 +1,6 @@
 <template>
   <v-container class="fill-height">
-    <v-row v-if="$vuetify.display.smAndUp">
+    <v-row v-if="$vuetify.display.mdAndUp">
       <v-col v-for="card in cards" :key="card.id" cols="4">
         <v-lazy :min-height="500" :options="{'threshold':0.1}" transition="fade-transition">
           <Card
@@ -17,9 +17,9 @@
         </v-lazy>
       </v-col>
     </v-row>
-    <v-row style="align-self: start; display: flex; flex-direction: column; align-items: flex-start; max-width: 90%" v-else>
-      <v-col v-for="card in cards" :key="card.id" cols="1" style="padding: 0;">
-        <v-lazy :min-height="200" :options="{'threshold':0.1}" transition="fade-transition">
+    <v-row class="mobile-grid" v-else>
+      <v-col class="pa-0" v-for="card in cards" :key="card.id" cols="1">
+        <v-lazy min-height="12em" :options="{'threshold':0.1}" transition="fade-transition">
           <Card
             :id="card.id"
             :title="card.title"
@@ -124,3 +124,13 @@ export default {
   }
 };
 </script>
+
+<style>
+.mobile-grid {
+  align-self: start;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  max-width: 90%;
+}
+</style>

@@ -1,14 +1,14 @@
 <template>
   <v-card @click="showDialog = true" width="92%" class="card">
     <div class="w-33 image">
-      <v-img aspect-ratio="1" :src="image_url">
+      <v-img max-height="inherit" aspect-ratio="1" :src="image_url">
       </v-img>
     </div>
     <div class="w-66 text">
       <v-card-title>
         <v-row>
           <v-col cols="10">
-           <div style="overflow: hidden; text-overflow: ellipsis;">{{ title }}</div>
+           <div class="ellipsis">{{ title }}</div>
           </v-col>
           <v-col cols="2" class="text-end">
             <v-icon color="grey lighten-1">mdi-information-outline</v-icon>
@@ -17,15 +17,11 @@
       </v-card-title>
       <v-card-subtitle>{{ artist }}</v-card-subtitle>
       <v-card-text>
-        <v-row>
-          <v-col>
-            <span class="font-weight-bold">{{ $t('released') }}:</span> {{ released }}
-            <v-spacer />
-            <span class="font-weight-bold">{{ $t('duration') }}:</span> {{ formattedDuration }}
-            <v-spacer />
-            <span class="font-weight-bold">{{ $t('album') }}:</span> {{ album }}
-          </v-col>
-        </v-row>
+        <span class="font-weight-bold">{{ $t('released') }}: </span>{{ released }}
+        <v-spacer />
+        <span class="font-weight-bold">{{ $t('duration') }}: </span>{{ formattedDuration }}
+        <v-spacer />
+        <span class="ellipsis"><span class="font-weight-bold">{{ $t('album') }}: </span>{{ album }}</span>
       </v-card-text>
     </div>
     <v-dialog v-model="showDialog" width="500">
@@ -120,15 +116,25 @@ export default {
 .card {
   position: absolute;
   width: 92%;
+  max-height: 200px;
+
+  .image {
+    float: left;
+    height: 100%;
+    padding: 0.5em;
+    max-height: 150px;
+  }
+
+  .text {
+    float: left;
+  }
 }
 
-.image {
-  float: left;
-  height: 100%;
-  padding: 8px;
-}
-
-.text {
-  float: left;
+.ellipsis {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
+  display: inline-block;
+  white-space: nowrap;
 }
 </style>
