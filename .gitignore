@@ -25,3 +25,4 @@ package-lock.json
 
 src/sql/*.db
 src/sql/*.sqlite
+public/tracklist.sqlite
