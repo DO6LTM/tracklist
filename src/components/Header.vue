@@ -14,7 +14,7 @@
       @click:clear="$emit('search', '')"
     />
     <v-spacer class="d-none d-sm-flex" />
-    <v-menu activator="parent">
+    <v-menu>
       <template v-slot:activator="{ props }">
         <v-btn style="height: 95%;" v-bind="props"><i class="fa-solid fa-filter" style="font-size: 1.2em;"></i></v-btn>
       </template>
@@ -31,7 +31,7 @@
               <v-btn-toggle v-model="sortValue" color="primary" mandatory>
                 <v-btn v-for="(value, index) in sort" class="ma-0 pt-2 pb-2" :value="index" @click="changeOrder">
                   {{ $t(sort[index]["label"]) }}
-                  <v-label class="text-body-2"> - </v-label>
+                  <v-label class="text-body-2">&ensp;-&ensp;</v-label>
                   <v-label class="text-body-2" v-if="sort[index]['desc']"> {{ $t("desc") }}&#9662;</v-label>
                   <v-label class="text-body-2" v-else> {{ $t("asc") }}&#9652;</v-label>
                 </v-btn>
