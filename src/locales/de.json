@@ -6,6 +6,13 @@
   "games": "Spiele",
   "close": "Schließen",
   "more": "Mehr",
-  "duration":  "Länge",
-  "album": "Album"
+  "duration": "Länge",
+  "album": "Album",
+  "asc": "Aufsteigend",
+  "desc": "Absteigend",
+  "titleLabel": "Titel",
+  "popularity": "Relevanz",
+  "year": "Erscheinungsjahr",
+  "artist": "Interpret",
+  "sort": "Sortieren"
 }

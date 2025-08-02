@@ -50,6 +50,8 @@ export default {
   },
   props: {
     searchValue: String,
+    sort: Number,
+    sortDesc: Boolean
   },
   watch: {
     searchValue(newValue, oldValue) {
@@ -57,7 +59,19 @@ export default {
         this.updateCards(newValue);
         window.scrollTo({ top: 0, behavior: "smooth" });
       }
-    }
+    },
+    sort(newValue, oldValue) {
+      if (newValue !== oldValue) {
+        this.updateCards(this.searchValue);
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      }
+    },
+    sortDesc(newValue, oldValue) {
+      if (newValue !== oldValue) {
+        this.updateCards(this.searchValue);
+        window.scrollTo({ top: 0, behavior: "smooth" });
+      }
+    },
   },
   mounted() {
     this.updateCards("");
@@ -69,15 +83,29 @@ export default {
       search = search.trim();
       const wildcardSearch = "%" + search + "%";
 
-      const query = "SELECT DISTINCT t.id, t.title, t.artist, t.album, t.released, t.duration, t.image_url, t.url, t.popularity " +
+      let query = "SELECT DISTINCT t.id, t.title, t.artist, t.album, t.released, t.duration, t.image_url, t.url, t.popularity " +
         "FROM track t " +
         "INNER JOIN track_game tg ON tg.track_id = t.id " +
         "INNER JOIN game g ON g.id = tg.game_id " +
         "INNER JOIN game_region gr ON gr.game_id = g.id " +
         "INNER JOIN game_title gt ON gt.id = gr.game_title_id " +
         "WHERE t.title LIKE ? or t.artist LIKE ? or t.album LIKE ? or CAST(t.released as TEXT) = ? or gt.title LIKE ? " +
-        "GROUP BY t.artist, t.title " +
-        "ORDER BY t.popularity DESC, t.artist ASC, t.title ASC";
+        "GROUP BY t.artist, t.title ";
+
+      switch (this.sort) {
+        case 0:
+          query += "ORDER BY t.popularity " + (this.sortDesc ? "DESC" : "ASC") + ", t.artist ASC, t.title ASC";
+          break;
+        case 1:
+          query += "ORDER BY t.title " + (this.sortDesc ? "DESC" : "ASC") + ", t.artist ASC";
+          break;
+        case 2:
+          query += "ORDER BY t.artist " + (this.sortDesc ? "DESC" : "ASC") + ", t.title ASC";
+          break;
+        case 3:
+          query += "ORDER BY t.released " + (this.sortDesc ? "DESC" : "ASC") + ", t.artist ASC, t.title ASC";
+          break;
+      }
 
       const stmt = getDatabase().prepare(query);
       stmt.bind([wildcardSearch, wildcardSearch, wildcardSearch, search, wildcardSearch]);

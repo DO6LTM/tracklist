@@ -7,5 +7,12 @@
   "close": "Close",
   "more": "More",
   "duration":  "Duration",
-  "album": "Album"
+  "album": "Album",
+  "asc": "Ascending",
+  "desc": "Descending",
+  "titleLabel": "Title",
+  "popularity": "Popularity",
+  "year": "Released",
+  "artist": "Artist",
+  "sort": "Sort"
 }
