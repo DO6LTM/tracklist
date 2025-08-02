@@ -40,7 +40,7 @@
           <v-row class="font-weight-bold text-black">
             {{ $t('games') }}:
           </v-row>
-          <v-row class="mt-4">
+          <v-row class="mt-4 d-block">
             <li v-for="game in games" style="list-style-type: none;">
               {{ game.title }} ({{ game.regions }}) {{ game.console }}
             </li>
