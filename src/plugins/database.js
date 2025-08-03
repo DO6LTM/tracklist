@@ -4,7 +4,7 @@ const sqlPromise = initSqlJs({
   locateFile: file => `https://sql.js.org/dist/${file}`
 });
 
-const dataPromise = fetch("/tracklist.sqlite").then(res => res.arrayBuffer());
+const dataPromise = fetch(`${import.meta.env.BASE_URL}tracklist.sqlite`).then(res => res.arrayBuffer());
 
 const [SQL, buf] = await Promise.all([sqlPromise, dataPromise]);
 
