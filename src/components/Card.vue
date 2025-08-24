@@ -89,8 +89,8 @@ export default {
         "FROM track t " +
         "INNER JOIN track_game tg ON tg.track_id = t.id " +
         "INNER JOIN game g ON g.id = tg.game_id " +
-        "INNER JOIN game_region gr ON gr.game_id = g.id " +
-        "INNER JOIN region r ON gr.region_id = r.id " +
+        "INNER JOIN game_region gr ON gr.region_id = tg.region_id AND gr.game_id = g.id " +
+        "INNER JOIN region r ON tg.region_id = r.id " +
         "INNER JOIN game_title gt ON gt.id = gr.game_title_id " +
         "INNER JOIN console c ON c.id = g.console_id " +
         "WHERE t.title LIKE ? and (SUBSTR(t.artist, 1, INSTR(t.artist, ' ') - 1) LIKE ? or t.artist LIKE ?)" +
